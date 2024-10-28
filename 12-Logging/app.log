@@ -1,0 +1,224 @@
+2024-10-28 13:02:54-root-DEBUG-This is a debug message
+2024-10-28 13:02:54-root-INFO-This is an info message
+2024-10-28 13:02:54-root-WARNING-This is a warning message
+2024-10-28 13:02:54-root-ERROR-This is an error message
+2024-10-28 13:02:54-root-CRITICAL-This is a critical message
+2024-10-28 13:03:03-root-DEBUG-This is a debug message
+2024-10-28 13:03:03-root-INFO-This is an info message
+2024-10-28 13:03:03-root-WARNING-This is a warning message
+2024-10-28 13:03:03-root-ERROR-This is an error message
+2024-10-28 13:03:03-root-CRITICAL-This is a critical message
+2024-10-28 13:07:02-root-INFO-Starting the application
+2024-10-28 13:07:02-root-WARNING-This is a warning message
+2024-10-28 13:07:02-root-ERROR-This is an error message
+2024-10-28 13:08:35-root-DEBUG-This is a debug message
+2024-10-28 13:08:35-root-INFO-Starting the application
+2024-10-28 13:08:35-root-WARNING-This is a warning message
+2024-10-28 13:08:35-root-ERROR-This is an error message
+2024-10-28 13:09:39-my_logger-DEBUG-This debug message will not appear in any handler
+2024-10-28 13:09:39-my_logger-WARNING-This warning message will appear in the console only
+2024-10-28 13:09:39-my_logger-ERROR-This error message will appear in both console and file
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 0
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 1
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 2
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 3
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 4
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 5
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 6
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 7
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 8
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 9
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 10
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 11
+2024-10-28 13:10:50-rotating_logger-INFO-Logging message 12
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 13
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 14
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 15
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 16
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 17
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 18
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 19
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 20
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 21
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 22
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 23
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 24
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 25
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 26
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 27
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 28
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 29
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 30
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 31
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 32
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 33
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 34
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 35
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 36
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 37
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 38
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 39
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 40
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 41
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 42
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 43
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 44
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 45
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 46
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 47
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 48
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 49
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 50
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 51
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 52
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 53
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 54
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 55
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 56
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 57
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 58
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 59
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 60
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 61
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 62
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 63
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 64
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 65
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 66
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 67
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 68
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 69
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 70
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 71
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 72
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 73
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 74
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 75
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 76
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 77
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 78
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 79
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 80
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 81
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 82
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 83
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 84
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 85
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 86
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 87
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 88
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 89
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 90
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 91
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 92
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 93
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 94
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 95
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 96
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 97
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 98
+2024-10-28 13:10:51-rotating_logger-INFO-Logging message 99
+2024-10-28 13:11:38-custom_logger-CUSTOM-This is a custom log message
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 0
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 1
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 2
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 3
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 4
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 5
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 6
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 7
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 8
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 9
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 10
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 11
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 12
+2024-10-28 13:12:08-rotating_logger-INFO-Logging message 13
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 14
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 15
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 16
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 17
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 18
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 19
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 20
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 21
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 22
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 23
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 24
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 25
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 26
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 27
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 28
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 29
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 30
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 31
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 32
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 33
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 34
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 35
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 36
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 37
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 38
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 39
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 40
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 41
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 42
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 43
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 44
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 45
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 46
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 47
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 48
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 49
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 50
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 51
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 52
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 53
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 54
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 55
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 56
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 57
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 58
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 59
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 60
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 61
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 62
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 63
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 64
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 65
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 66
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 67
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 68
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 69
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 70
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 71
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 72
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 73
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 74
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 75
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 76
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 77
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 78
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 79
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 80
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 81
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 82
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 83
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 84
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 85
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 86
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 87
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 88
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 89
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 90
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 91
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 92
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 93
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 94
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 95
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 96
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 97
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 98
+2024-10-28 13:12:09-rotating_logger-INFO-Logging message 99
+2024-10-28 13:19:35-module1-DEBUG-This is debug message for module1
+2024-10-28 13:19:35-module2-WARNING-This is a warning message for module 2
+2024-10-28 13:19:35-module2-ERROR-This is an error message

@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+plotly
+Flask
+dash
+sqlite3

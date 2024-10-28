@@ -1,0 +1,241 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,01-01-2024,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Credit Card
+10002,02-01-2024,Home Appliances,Dyson V11 Vacuum,1,499.99,499.99,Europe,PayPal
+10003,03-01-2024,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card
+10004,04-01-2024,Books,The Da Vinci Code,4,15.99,63.96,North America,Credit Card
+10005,05-01-2024,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
+10006,06-01-2024,Sports,Wilson Evolution Basketball,5,29.99,149.95,Asia,Credit Card
+10007,07-01-2024,Electronics,MacBook Pro 16-inch,1,2499.99,2499.99,North America,Credit Card
+10008,08-01-2024,Home Appliances,Blueair Classic 480i,2,599.99,1199.98,Europe,PayPal
+10009,09-01-2024,Clothing,Nike Air Force 1,6,89.99,539.94,Asia,Debit Card
+10010,10-01-2024,Books,Dune by Frank Herbert,2,25.99,51.98,North America,Credit Card
+10011,11-01-2024,Beauty Products,Chanel No. 5 Perfume,1,129.99,129.99,Europe,PayPal
+10012,12-01-2024,Sports,Babolat Pure Drive Tennis Racket,3,199.99,599.97,Asia,Credit Card
+10013,13-01-2024,Electronics,Samsung Galaxy Tab S8,2,749.99,1499.98,North America,Credit Card
+10014,14-01-2024,Home Appliances,Keurig K-Elite Coffee Maker,1,189.99,189.99,Europe,PayPal
+10015,15-01-2024,Clothing,North Face Down Jacket,2,249.99,499.98,Asia,Debit Card
+10016,16-01-2024,Books,"Salt, Fat, Acid, Heat by Samin Nosrat",3,35.99,107.97,North America,Credit Card
+10017,17-01-2024,Beauty Products,Dyson Supersonic Hair Dryer,1,399.99,399.99,Europe,PayPal
+10018,18-01-2024,Sports,Manduka PRO Yoga Mat,4,119.99,479.96,Asia,Credit Card
+10019,19-01-2024,Electronics,Garmin Forerunner 945,2,499.99,999.98,North America,Credit Card
+10020,20-01-2024,Home Appliances,Ninja Professional Blender,1,99.99,99.99,Europe,PayPal
+10021,21-01-2024,Clothing,Zara Summer Dress,3,59.99,179.97,Asia,Debit Card
+10022,22-01-2024,Books,Gone Girl by Gillian Flynn,2,22.99,45.98,North America,Credit Card
+10023,23-01-2024,Beauty Products,Olay Regenerist Face Cream,1,49.99,49.99,Europe,PayPal
+10024,24-01-2024,Sports,Adidas FIFA World Cup Football,3,29.99,89.97,Asia,Credit Card
+10025,25-01-2024,Electronics,Bose QuietComfort 35 Headphones,1,299.99,299.99,North America,Credit Card
+10026,26-01-2024,Home Appliances,Panasonic NN-SN966S Microwave,1,179.99,179.99,Europe,PayPal
+10027,27-01-2024,Clothing,Adidas Ultraboost Shoes,2,179.99,359.98,Asia,Debit Card
+10028,28-01-2024,Books,Pride and Prejudice by Jane Austen,3,12.99,38.97,North America,Credit Card
+10029,29-01-2024,Beauty Products,MAC Ruby Woo Lipstick,1,29.99,29.99,Europe,PayPal
+10030,30-01-2024,Sports,Nike Air Zoom Pegasus 37,2,129.99,259.98,Asia,Credit Card
+10031,31-01-2024,Electronics,Sony WH-1000XM4 Headphones,2,349.99,699.98,North America,Credit Card
+10032,01-02-2024,Home Appliances,Instant Pot Duo,3,89.99,269.97,Europe,PayPal
+10033,02-02-2024,Clothing,Under Armour HeatGear T-Shirt,5,29.99,149.95,Asia,Debit Card
+10034,03-02-2024,Books,1984 by George Orwell,4,19.99,79.96,North America,Credit Card
+10035,04-02-2024,Beauty Products,L'Oreal Revitalift Serum,2,39.99,79.98,Europe,PayPal
+10036,05-02-2024,Sports,Peloton Bike,1,1895,1895,Asia,Credit Card
+10037,06-02-2024,Electronics,Apple Watch Series 8,3,399.99,1199.97,North America,Credit Card
+10038,07-02-2024,Home Appliances,Roomba i7+,2,799.99,1599.98,Europe,PayPal
+10039,08-02-2024,Clothing,Columbia Fleece Jacket,4,59.99,239.96,Asia,Debit Card
+10040,09-02-2024,Books,Harry Potter and the Sorcerer's Stone,3,24.99,74.97,North America,Credit Card
+10041,10-02-2024,Beauty Products,Estee Lauder Advanced Night Repair,1,105,105,Europe,PayPal
+10042,11-02-2024,Sports,Fitbit Charge 5,2,129.99,259.98,Asia,Credit Card
+10043,12-02-2024,Electronics,GoPro HERO10 Black,3,399.99,1199.97,North America,Credit Card
+10044,13-02-2024,Home Appliances,Nespresso VertuoPlus,1,199.99,199.99,Europe,PayPal
+10045,14-02-2024,Clothing,Patagonia Better Sweater,2,139.99,279.98,Asia,Debit Card
+10046,15-02-2024,Books,Becoming by Michelle Obama,4,32.5,130,North America,Credit Card
+10047,16-02-2024,Beauty Products,Clinique Moisture Surge,1,52,52,Europe,PayPal
+10048,17-02-2024,Sports,Yeti Rambler Tumbler,6,39.99,239.94,Asia,Credit Card
+10049,18-02-2024,Electronics,Kindle Paperwhite,2,129.99,259.98,North America,Credit Card
+10050,19-02-2024,Home Appliances,Breville Smart Oven,1,299.99,299.99,Europe,PayPal
+10051,20-02-2024,Clothing,Ray-Ban Aviator Sunglasses,3,154.99,464.97,Asia,Debit Card
+10052,21-02-2024,Books,The Silent Patient by Alex Michaelides,2,26.99,53.98,North America,Credit Card
+10053,22-02-2024,Beauty Products,Shiseido Ultimate Sun Protector,1,49,49,Europe,PayPal
+10054,23-02-2024,Sports,Titleist Pro V1 Golf Balls,5,49.99,249.95,Asia,Credit Card
+10055,24-02-2024,Electronics,Anker PowerCore Portable Charger,4,59.99,239.96,North America,Credit Card
+10056,25-02-2024,Home Appliances,KitchenAid Artisan Stand Mixer,1,499.99,499.99,Europe,PayPal
+10057,26-02-2024,Clothing,Calvin Klein Boxer Briefs,5,29.99,149.95,Asia,Debit Card
+10058,27-02-2024,Books,Educated by Tara Westover,3,28,84,North America,Credit Card
+10059,28-02-2024,Beauty Products,Anastasia Beverly Hills Brow Wiz,2,23,46,Europe,PayPal
+10060,29-02-2024,Sports,Hyperice Hypervolt Massager,1,349,349,Asia,Credit Card
+10061,01-03-2024,Electronics,Nintendo Switch,3,299.99,899.97,North America,Credit Card
+10062,02-03-2024,Home Appliances,Philips Airfryer XXL,2,199.99,399.98,Europe,PayPal
+10063,03-03-2024,Clothing,Hanes ComfortSoft T-Shirt,10,9.99,99.9,Asia,Debit Card
+10064,04-03-2024,Books,Where the Crawdads Sing by Delia Owens,4,18.99,75.96,North America,Credit Card
+10065,05-03-2024,Beauty Products,Lancome La Vie Est Belle,1,102,102,Europe,PayPal
+10066,06-03-2024,Sports,Garmin Edge 530,2,299.99,599.98,Asia,Credit Card
+10067,07-03-2024,Electronics,Samsung QLED 4K TV,1,1199.99,1199.99,North America,Credit Card
+10068,08-03-2024,Home Appliances,Eufy RoboVac 11S,3,219.99,659.97,Europe,PayPal
+10069,09-03-2024,Clothing,Puma Suede Classic Sneakers,4,59.99,239.96,Asia,Debit Card
+10070,10-03-2024,Books,The Great Gatsby by F. Scott Fitzgerald,2,10.99,21.98,North America,Credit Card
+10071,11-03-2024,Beauty Products,Drunk Elephant C-Firma Day Serum,1,78,78,Europe,PayPal
+10072,12-03-2024,Sports,Nike Metcon 6,3,129.99,389.97,Asia,Credit Card
+10073,13-03-2024,Electronics,HP Spectre x360 Laptop,1,1599.99,1599.99,North America,Credit Card
+10074,14-03-2024,Home Appliances,De'Longhi Magnifica Espresso Machine,1,899.99,899.99,Europe,PayPal
+10075,15-03-2024,Clothing,Tommy Hilfiger Polo Shirt,5,49.99,249.95,Asia,Debit Card
+10076,16-03-2024,Books,To Kill a Mockingbird by Harper Lee,4,14.99,59.96,North America,Credit Card
+10077,17-03-2024,Beauty Products,Glossier Boy Brow,2,16,32,Europe,PayPal
+10078,18-03-2024,Sports,Rogue Fitness Kettlebell,3,69.99,209.97,Asia,Credit Card
+10079,19-03-2024,Electronics,Apple AirPods Pro,2,249.99,499.98,North America,Credit Card
+10080,20-03-2024,Home Appliances,Dyson Pure Cool Link,1,499.99,499.99,Europe,PayPal
+10081,21-03-2024,Clothing,Levi's Trucker Jacket,2,89.99,179.98,Asia,Debit Card
+10082,22-03-2024,Books,The Hobbit by J.R.R. Tolkien,3,12.99,38.97,North America,Credit Card
+10083,23-03-2024,Beauty Products,Charlotte Tilbury Magic Cream,1,100,100,Europe,PayPal
+10084,24-03-2024,Sports,Spalding NBA Street Basketball,6,24.99,149.94,Asia,Credit Card
+10085,25-03-2024,Electronics,Ring Video Doorbell,1,99.99,99.99,North America,Credit Card
+10086,26-03-2024,Home Appliances,LG OLED TV,2,1299.99,2599.98,Europe,PayPal
+10087,27-03-2024,Clothing,Uniqlo Ultra Light Down Jacket,3,79.99,239.97,Asia,Debit Card
+10088,28-03-2024,Books,The Catcher in the Rye by J.D. Salinger,4,13.99,55.96,North America,Credit Card
+10089,29-03-2024,Beauty Products,Sunday Riley Good Genes,1,105,105,Europe,PayPal
+10090,30-03-2024,Sports,On Running Cloud Shoes,2,129.99,259.98,Asia,Credit Card
+10091,31-03-2024,Electronics,Logitech MX Master 3 Mouse,2,99.99,199.98,North America,Credit Card
+10092,01-04-2024,Home Appliances,Instant Pot Duo Crisp,1,179.99,179.99,Europe,PayPal
+10093,02-04-2024,Clothing,Adidas Originals Superstar Sneakers,4,79.99,319.96,Asia,Debit Card
+10094,03-04-2024,Books,The Alchemist by Paulo Coelho,3,14.99,44.97,North America,Credit Card
+10095,04-04-2024,Beauty Products,Tatcha The Water Cream,1,68,68,Europe,PayPal
+10096,05-04-2024,Sports,Garmin Fenix 6X Pro,1,999.99,999.99,Asia,Credit Card
+10097,06-04-2024,Electronics,Bose SoundLink Revolve+ Speaker,3,299.99,899.97,North America,Credit Card
+10098,07-04-2024,Home Appliances,Vitamix Explorian Blender,1,349.99,349.99,Europe,PayPal
+10099,08-04-2024,Clothing,Gap Essential Crewneck T-Shirt,6,19.99,119.94,Asia,Debit Card
+10100,09-04-2024,Books,The Power of Now by Eckhart Tolle,2,12.99,25.98,North America,Credit Card
+10101,10-04-2024,Beauty Products,Kiehl's Midnight Recovery Concentrate,1,82,82,Europe,PayPal
+10102,11-04-2024,Sports,Under Armour HOVR Sonic 4 Shoes,2,109.99,219.98,Asia,Credit Card
+10103,12-04-2024,Electronics,Canon EOS R5 Camera,1,3899.99,3899.99,North America,Credit Card
+10104,13-04-2024,Home Appliances,Shark IQ Robot Vacuum,2,349.99,699.98,Europe,PayPal
+10105,14-04-2024,Clothing,H&M Slim Fit Jeans,3,39.99,119.97,Asia,Debit Card
+10106,15-04-2024,Books,The Girl on the Train by Paula Hawkins,4,10.99,43.96,North America,Credit Card
+10107,16-04-2024,Beauty Products,The Ordinary Niacinamide Serum,1,6.5,6.5,Europe,PayPal
+10108,17-04-2024,Sports,Bowflex SelectTech 552 Dumbbells,1,399.99,399.99,Asia,Credit Card
+10109,18-04-2024,Electronics,Google Nest Hub Max,2,229.99,459.98,North America,Credit Card
+10110,19-04-2024,Home Appliances,Cuisinart Griddler Deluxe,1,159.99,159.99,Europe,PayPal
+10111,20-04-2024,Clothing,Old Navy Relaxed-Fit T-Shirt,4,14.99,59.96,Asia,Debit Card
+10112,21-04-2024,Books,Sapiens: A Brief History of Humankind by Yuval Noah Harari,2,18.99,37.98,North America,Credit Card
+10113,22-04-2024,Beauty Products,Biore UV Aqua Rich Watery Essence Sunscreen,1,15,15,Europe,PayPal
+10114,23-04-2024,Sports,Fitbit Versa 3,3,229.95,689.85,Asia,Credit Card
+10115,24-04-2024,Electronics,Amazon Echo Show 10,1,249.99,249.99,North America,Credit Card
+10116,25-04-2024,Home Appliances,Breville Smart Grill,2,299.95,599.9,Europe,PayPal
+10117,26-04-2024,Clothing,Gap High Rise Skinny Jeans,3,49.99,149.97,Asia,Debit Card
+10118,27-04-2024,Books,Atomic Habits by James Clear,4,16.99,67.96,North America,Credit Card
+10119,28-04-2024,Beauty Products,CeraVe Hydrating Facial Cleanser,2,14.99,29.98,Europe,PayPal
+10120,29-04-2024,Sports,YETI Hopper Flip Portable Cooler,1,249.99,249.99,Asia,Credit Card
+10121,30-04-2024,Electronics,Apple iPad Air,2,599.99,1199.98,North America,Credit Card
+10122,01-05-2024,Home Appliances,Hamilton Beach FlexBrew Coffee Maker,1,89.99,89.99,Europe,PayPal
+10123,02-05-2024,Clothing,Forever 21 Graphic Tee,5,12.99,64.95,Asia,Debit Card
+10124,03-05-2024,Books,The Subtle Art of Not Giving a F*ck by Mark Manson,3,14.99,44.97,North America,Credit Card
+10125,04-05-2024,Beauty Products,NARS Radiant Creamy Concealer,1,30,30,Europe,PayPal
+10126,05-05-2024,Sports,Yeti Roadie 24 Cooler,1,199.99,199.99,Asia,Credit Card
+10127,06-05-2024,Electronics,Sony PlayStation 5,1,499.99,499.99,North America,Credit Card
+10128,07-05-2024,Home Appliances,Dyson Supersonic Hair Dryer,2,399.99,799.98,Europe,PayPal
+10129,08-05-2024,Clothing,Lululemon Align Leggings,3,98,294,Asia,Debit Card
+10130,09-05-2024,Books,The Four Agreements by Don Miguel Ruiz,2,8.99,17.98,North America,Credit Card
+10131,10-05-2024,Beauty Products,Fenty Beauty Killawatt Highlighter,1,36,36,Europe,PayPal
+10132,11-05-2024,Sports,Hydro Flask Wide Mouth Water Bottle,4,39.95,159.8,Asia,Credit Card
+10133,12-05-2024,Electronics,Microsoft Surface Laptop 4,1,1299.99,1299.99,North America,Credit Card
+10134,13-05-2024,Home Appliances,Keurig K-Mini Coffee Maker,2,79.99,159.98,Europe,PayPal
+10135,14-05-2024,Clothing,Gap Crewneck Sweatshirt,4,34.99,139.96,Asia,Debit Card
+10136,15-05-2024,Books,Think and Grow Rich by Napoleon Hill,3,9.99,29.97,North America,Credit Card
+10137,16-05-2024,Beauty Products,The Ordinary Hyaluronic Acid Serum,1,6.8,6.8,Europe,PayPal
+10138,17-05-2024,Sports,Fitbit Inspire 2,2,99.95,199.9,Asia,Credit Card
+10139,18-05-2024,Electronics,Samsung Odyssey G9 Gaming Monitor,1,1499.99,1499.99,North America,Credit Card
+10140,19-05-2024,Home Appliances,Instant Pot Ultra,1,139.99,139.99,Europe,PayPal
+10141,20-05-2024,Clothing,Adidas Essential Track Pants,3,44.99,134.97,Asia,Debit Card
+10142,21-05-2024,Books,The Power of Habit by Charles Duhigg,2,11.99,23.98,North America,Credit Card
+10143,22-05-2024,Beauty Products,Clinique Dramatically Different Moisturizing Lotion,1,29.5,29.5,Europe,PayPal
+10144,23-05-2024,Sports,YETI Tundra 45 Cooler,1,299.99,299.99,Asia,Credit Card
+10145,24-05-2024,Electronics,Apple AirPods Max,1,549,549,North America,Credit Card
+10146,25-05-2024,Home Appliances,Cuisinart Coffee Center,2,199.95,399.9,Europe,PayPal
+10147,26-05-2024,Clothing,Levi's Sherpa Trucker Jacket,2,98,196,Asia,Debit Card
+10148,27-05-2024,Books,The Outsiders by S.E. Hinton,3,10.99,32.97,North America,Credit Card
+10149,28-05-2024,Beauty Products,Laneige Water Sleeping Mask,1,25,25,Europe,PayPal
+10150,29-05-2024,Sports,Bose SoundSport Wireless Earbuds,2,149.99,299.98,Asia,Credit Card
+10151,30-05-2024,Electronics,Sony WH-1000XM4 Headphones,1,349.99,349.99,North America,Credit Card
+10152,31-05-2024,Home Appliances,Ninja Foodi Pressure Cooker,2,199.99,399.98,Europe,PayPal
+10153,01-06-2024,Clothing,Nike Sportswear Club Fleece Hoodie,3,54.99,164.97,Asia,Debit Card
+10154,02-06-2024,Books,The Night Circus by Erin Morgenstern,2,16.99,33.98,North America,Credit Card
+10155,03-06-2024,Beauty Products,GlamGlow Supermud Clearing Treatment,1,59,59,Europe,PayPal
+10156,04-06-2024,Sports,Garmin Forerunner 245,1,299.99,299.99,Asia,Credit Card
+10157,05-06-2024,Electronics,Google Pixel 6 Pro,1,899.99,899.99,North America,Credit Card
+10158,06-06-2024,Home Appliances,Breville Nespresso Creatista Plus,1,499.95,499.95,Europe,PayPal
+10159,07-06-2024,Clothing,Under Armour Tech 2.0 T-Shirt,4,24.99,99.96,Asia,Debit Card
+10160,08-06-2024,Books,The Art of War by Sun Tzu,3,7.99,23.97,North America,Credit Card
+10161,09-06-2024,Beauty Products,Youth to the People Superfood Antioxidant Cleanser,1,36,36,Europe,PayPal
+10162,10-06-2024,Sports,TriggerPoint GRID Foam Roller,2,34.99,69.98,Asia,Credit Card
+10163,11-06-2024,Electronics,Apple MacBook Air,1,1199.99,1199.99,North America,Credit Card
+10164,12-06-2024,Home Appliances,Cuisinart Custom 14-Cup Food Processor,1,199.99,199.99,Europe,PayPal
+10165,13-06-2024,Clothing,Adidas 3-Stripes Shorts,5,29.99,149.95,Asia,Debit Card
+10166,14-06-2024,Books,The Hunger Games by Suzanne Collins,4,8.99,35.96,North America,Credit Card
+10167,15-06-2024,Beauty Products,Neutrogena Hydro Boost Water Gel,1,16.99,16.99,Europe,PayPal
+10168,16-06-2024,Sports,Yeti Rambler Bottle,3,49.99,149.97,Asia,Credit Card
+10169,17-06-2024,Electronics,Samsung Odyssey G7 Gaming Monitor,1,699.99,699.99,North America,Credit Card
+10170,18-06-2024,Home Appliances,Instant Pot Duo Evo Plus,2,139.99,279.98,Europe,PayPal
+10171,19-06-2024,Clothing,Nike Tempo Running Shorts,3,34.99,104.97,Asia,Debit Card
+10172,20-06-2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,2,9.99,19.98,North America,Credit Card
+10173,21-06-2024,Beauty Products,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,1,29.5,29.5,Europe,PayPal
+10174,22-06-2024,Sports,Bowflex SelectTech 1090 Adjustable Dumbbells,1,699.99,699.99,Asia,Credit Card
+10175,23-06-2024,Electronics,Amazon Fire TV Stick 4K,3,49.99,149.97,North America,Credit Card
+10176,24-06-2024,Home Appliances,Crock-Pot 6-Quart Slow Cooker,2,49.99,99.98,Europe,PayPal
+10177,25-06-2024,Clothing,Uniqlo Airism Mesh Boxer Briefs,4,14.9,59.6,Asia,Debit Card
+10178,26-06-2024,Books,The Sun Also Rises by Ernest Hemingway,3,11.99,35.97,North America,Credit Card
+10179,27-06-2024,Beauty Products,First Aid Beauty Ultra Repair Cream,2,34,68,Europe,PayPal
+10180,28-06-2024,Sports,Oakley Holbrook Sunglasses,1,146,146,Asia,Credit Card
+10181,29-06-2024,Electronics,Google Pixelbook Go,1,649.99,649.99,North America,Credit Card
+10182,30-06-2024,Home Appliances,Dyson V8 Absolute,1,399.99,399.99,Europe,PayPal
+10183,01-07-2024,Clothing,Levi's 511 Slim Fit Jeans,3,59.99,179.97,Asia,Debit Card
+10184,02-07-2024,Books,The Martian by Andy Weir,2,12.99,25.98,North America,Credit Card
+10185,03-07-2024,Beauty Products,La Mer Crème de la Mer Moisturizer,1,190,190,Europe,PayPal
+10186,04-07-2024,Sports,Polar Vantage V2,1,499.95,499.95,Asia,Credit Card
+10187,05-07-2024,Electronics,Sonos Beam Soundbar,1,399,399,North America,Credit Card
+10188,06-07-2024,Home Appliances,Anova Precision Cooker,2,199,398,Europe,PayPal
+10189,07-07-2024,Clothing,Nike Dri-FIT Training Shorts,4,34.99,139.96,Asia,Debit Card
+10190,08-07-2024,Books,The Catcher in the Rye by J.D. Salinger,3,10.99,32.97,North America,Credit Card
+10191,09-07-2024,Beauty Products,Glossier Cloud Paint,1,18,18,Europe,PayPal
+10192,10-07-2024,Sports,TRX All-in-One Suspension Training System,1,169.95,169.95,Asia,Credit Card
+10193,11-07-2024,Electronics,Logitech G Pro X Wireless Gaming Headset,1,199.99,199.99,North America,Credit Card
+10194,12-07-2024,Home Appliances,Breville Smart Coffee Grinder Pro,1,199.95,199.95,Europe,PayPal
+10195,13-07-2024,Clothing,Adidas Ultraboost Running Shoes,2,179.99,359.98,Asia,Debit Card
+10196,14-07-2024,Books,The Road by Cormac McCarthy,2,11.99,23.98,North America,Credit Card
+10197,15-07-2024,Beauty Products,Tom Ford Black Orchid Perfume,1,125,125,Europe,PayPal
+10198,16-07-2024,Sports,GoPro HERO9 Black,1,449.99,449.99,Asia,Credit Card
+10199,17-07-2024,Electronics,Apple TV 4K,2,179,358,North America,Credit Card
+10200,18-07-2024,Home Appliances,Instant Pot Duo Nova,1,99.95,99.95,Europe,PayPal
+10201,19-07-2024,Clothing,Gap 1969 Original Fit Jeans,3,59.99,179.97,Asia,Debit Card
+10202,20-07-2024,Books,The Goldfinch by Donna Tartt,2,14.99,29.98,North America,Credit Card
+10203,21-07-2024,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment,1,52,52,Europe,PayPal
+10204,22-07-2024,Sports,Yeti Tundra Haul Portable Wheeled Cooler,1,399.99,399.99,Asia,Credit Card
+10205,23-07-2024,Electronics,Samsung Galaxy Watch 4,1,299.99,299.99,North America,Credit Card
+10206,24-07-2024,Home Appliances,KitchenAid Stand Mixer,1,379.99,379.99,Europe,PayPal
+10207,25-07-2024,Clothing,Lululemon Wunder Under High-Rise Leggings,2,98,196,Asia,Debit Card
+10208,26-07-2024,Books,The Great Alone by Kristin Hannah,3,16.99,50.97,North America,Credit Card
+10209,27-07-2024,Beauty Products,Caudalie Vinoperfect Radiance Serum,1,79,79,Europe,PayPal
+10210,28-07-2024,Sports,Bose SoundLink Color Bluetooth Speaker II,1,129,129,Asia,Credit Card
+10211,29-07-2024,Electronics,Canon EOS Rebel T7i DSLR Camera,1,749.99,749.99,North America,Credit Card
+10212,30-07-2024,Home Appliances,Keurig K-Elite Coffee Maker,2,169.99,339.98,Europe,PayPal
+10213,31-07-2024,Clothing,Uniqlo Airism Seamless Boxer Briefs,4,9.9,39.6,Asia,Debit Card
+10214,01-08-2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,3,10.99,32.97,North America,Credit Card
+10215,02-08-2024,Beauty Products,L'Occitane Shea Butter Hand Cream,2,29,58,Europe,PayPal
+10216,03-08-2024,Sports,YETI Tundra 65 Cooler,1,349.99,349.99,Asia,Credit Card
+10217,04-08-2024,Electronics,Apple MacBook Pro 16-inch,1,2399,2399,North America,Credit Card
+10218,05-08-2024,Home Appliances,iRobot Braava Jet M6,1,449.99,449.99,Europe,PayPal
+10219,06-08-2024,Clothing,Champion Reverse Weave Hoodie,3,49.99,149.97,Asia,Debit Card
+10220,07-08-2024,Books,The Nightingale by Kristin Hannah,2,12.99,25.98,North America,Credit Card
+10221,08-08-2024,Beauty Products,Tarte Shape Tape Concealer,1,27,27,Europe,PayPal
+10222,09-08-2024,Sports,Garmin Forerunner 945,1,599.99,599.99,Asia,Credit Card
+10223,10-08-2024,Electronics,Amazon Echo Dot (4th Gen),4,49.99,199.96,North America,Credit Card
+10224,11-08-2024,Home Appliances,Philips Sonicare DiamondClean Toothbrush,2,229.99,459.98,Europe,PayPal
+10225,12-08-2024,Clothing,Old Navy Mid-Rise Rockstar Super Skinny Jeans,2,44.99,89.98,Asia,Debit Card
+10226,13-08-2024,Books,The Silent Patient by Alex Michaelides,3,26.99,80.97,North America,Credit Card
+10227,14-08-2024,Beauty Products,The Ordinary Caffeine Solution 5% + EGCG,1,6.7,6.7,Europe,PayPal
+10228,15-08-2024,Sports,Fitbit Luxe,2,149.95,299.9,Asia,Credit Card
+10229,16-08-2024,Electronics,Google Nest Wifi Router,1,169,169,North America,Credit Card
+10230,17-08-2024,Home Appliances,Anova Precision Oven,1,599,599,Europe,PayPal
+10231,18-08-2024,Clothing,Adidas Originals Trefoil Hoodie,4,64.99,259.96,Asia,Debit Card
+10232,19-08-2024,Books,Dune by Frank Herbert,2,9.99,19.98,North America,Credit Card
+10233,20-08-2024,Beauty Products,Fresh Sugar Lip Treatment,1,24,24,Europe,PayPal
+10234,21-08-2024,Sports,Hydro Flask Standard Mouth Water Bottle,3,32.95,98.85,Asia,Credit Card
+10235,22-08-2024,Electronics,Bose QuietComfort 35 II Wireless Headphones,1,299,299,North America,Credit Card
+10236,23-08-2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,1,159.99,159.99,Europe,PayPal
+10237,24-08-2024,Clothing,Nike Air Force 1 Sneakers,3,90,270,Asia,Debit Card
+10238,25-08-2024,Books,The Handmaid's Tale by Margaret Atwood,3,10.99,32.97,North America,Credit Card
+10239,26-08-2024,Beauty Products,Sunday Riley Luna Sleeping Night Oil,1,55,55,Europe,PayPal
+10240,27-08-2024,Sports,Yeti Rambler 20 oz Tumbler,2,29.99,59.98,Asia,Credit Card
