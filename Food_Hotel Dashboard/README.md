@@ -21,19 +21,6 @@ An interactive and data-driven dashboard built using Python, Streamlit, and Plot
 - `Pandas` for data handling
 - `Python` for login
 
-![alt text](image.png)
-
-
-![alt text](image-1.png)
-
-
-![alt text](image-2.png)
-
-
-![alt text](image-3.png)
-
-
-![alt text](image-4.png)
 
 Install dependencies
 
