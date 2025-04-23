@@ -1,0 +1,1282 @@
+Date,Dish,Category,Quantity,Revenue,Order_Type,Customer_Rating,Feedback,Ingredients_Used_g,Wastage_g
+2025-04-23,Veg Biryani,Main Course,5,1462.04,Delivery,5.0,Too spicy,520,330
+2025-04-23,Butter Naan,Bread,2,409.07,Delivery,3.2,Average experience,254,174
+2025-04-23,Veg Biryani,Main Course,4,964.42,Dine-in,4.2,Average experience,520,411
+2025-04-23,Dal Makhani,Main Course,4,1105.56,Dine-in,4.1,Too spicy,440,273
+2025-04-23,Butter Naan,Bread,2,393.97,Delivery,3.1,Excellent food,270,109
+2025-04-23,Dal Makhani,Main Course,3,871.58,Delivery,3.4,Perfect taste,519,356
+2025-04-23,Gulab Jamun,Dessert,2,400.03,Dine-in,2.9,Average experience,246,111
+2025-04-23,Gulab Jamun,Dessert,2,405.5,Delivery,3.3,Could be better,258,160
+2025-04-23,Pizza,Main Course,3,754.8,Delivery,4.2,Excellent food,579,457
+2025-04-23,Chicken Curry,Main Course,3,608.32,Delivery,4.3,Too spicy,522,342
+2025-04-23,Veg Biryani,Main Course,2,496.74,Dine-in,4.0,Average experience,212,112
+2025-04-23,Pasta,Main Course,1,129.73,Delivery,4.2,Superb!,167,27
+2025-04-23,Pizza,Main Course,5,1277.63,Dine-in,4.5,Loved it!,895,781
+2025-04-23,Tandoori Chicken,Starter,3,663.45,Dine-in,3.6,Excellent food,369,273
+2025-04-23,Pasta,Main Course,2,535.64,Delivery,4.3,Could be better,336,164
+2025-04-23,Pasta,Main Course,4,401.44,Delivery,2.5,Not satisfied,784,642
+2025-04-23,Chocolate Brownie,Dessert,3,831.22,Dine-in,3.2,Not satisfied,501,408
+2025-04-23,Dal Makhani,Main Course,7,749.15,Dine-in,3.4,Will order again,980,803
+2025-04-23,Pizza,Main Course,2,457.88,Delivery,4.8,Superb!,282,201
+2025-04-23,Pasta,Main Course,2,516.2,Dine-in,4.0,Excellent food,248,94
+2025-04-23,Veg Biryani,Main Course,3,786.9,Delivery,4.7,Not satisfied,594,461
+2025-04-23,Chicken Curry,Main Course,3,386.97,Delivery,3.3,Loved it!,369,172
+2025-04-23,Paneer Butter Masala,Main Course,2,528.2,Delivery,3.6,Average experience,262,71
+2025-04-23,Pizza,Main Course,4,487.98,Dine-in,2.6,Too spicy,608,485
+2025-04-23,Gulab Jamun,Dessert,5,967.18,Delivery,4.7,Perfect taste,840,652
+2025-04-23,Gulab Jamun,Dessert,2,368.61,Delivery,4.6,Perfect taste,242,55
+2025-04-22,Gulab Jamun,Dessert,4,479.27,Delivery,4.9,Not satisfied,688,520
+2025-04-22,Tandoori Chicken,Starter,2,508.49,Dine-in,4.7,Could be better,296,146
+2025-04-22,Dal Makhani,Main Course,5,1112.82,Delivery,2.8,Could be better,760,592
+2025-04-22,Tandoori Chicken,Starter,5,822.32,Dine-in,3.3,Perfect taste,855,764
+2025-04-22,Gulab Jamun,Dessert,3,587.03,Delivery,3.4,Perfect taste,474,302
+2025-04-22,Chocolate Brownie,Dessert,1,234.37,Delivery,3.9,Loved it!,136,0
+2025-04-22,Chocolate Brownie,Dessert,1,288.81,Delivery,4.4,Excellent food,193,0
+2025-04-22,Veg Biryani,Main Course,3,520.83,Delivery,3.5,Will order again,399,277
+2025-04-22,Dal Makhani,Main Course,3,531.3,Dine-in,3.0,Perfect taste,486,366
+2025-04-22,Paneer Butter Masala,Main Course,3,751.21,Dine-in,3.3,Loved it!,393,308
+2025-04-22,Dal Makhani,Main Course,2,254.7,Dine-in,3.3,Perfect taste,210,116
+2025-04-22,Tandoori Chicken,Starter,6,972.4,Dine-in,3.1,Superb!,708,590
+2025-04-22,Gulab Jamun,Dessert,5,843.3,Dine-in,2.8,Not satisfied,795,647
+2025-04-22,Tandoori Chicken,Starter,1,202.53,Delivery,4.5,Loved it!,108,7
+2025-04-22,Pizza,Main Course,2,366.05,Delivery,3.1,Late delivery,258,108
+2025-04-22,Paneer Butter Masala,Main Course,3,571.1,Delivery,2.9,Will order again,558,404
+2025-04-22,Pizza,Main Course,3,437.31,Delivery,4.8,Will order again,303,108
+2025-04-22,Gulab Jamun,Dessert,1,257.7,Delivery,2.8,Perfect taste,121,0
+2025-04-21,Chicken Curry,Main Course,3,671.47,Delivery,3.0,Superb!,441,327
+2025-04-21,Pizza,Main Course,3,536.56,Dine-in,4.8,Late delivery,543,373
+2025-04-21,Tandoori Chicken,Starter,4,504.49,Delivery,4.8,Too spicy,784,662
+2025-04-21,Tandoori Chicken,Starter,2,497.58,Delivery,4.3,Superb!,356,272
+2025-04-21,Butter Naan,Bread,1,192.71,Dine-in,4.4,Too spicy,125,0
+2025-04-21,Tandoori Chicken,Starter,3,565.05,Delivery,2.8,Average experience,423,337
+2025-04-21,Dal Makhani,Main Course,3,529.86,Dine-in,4.9,Could be better,360,273
+2025-04-21,Pizza,Main Course,2,445.91,Delivery,4.0,Loved it!,350,189
+2025-04-21,Veg Biryani,Main Course,4,977.07,Delivery,2.6,Average experience,720,605
+2025-04-21,Chicken Curry,Main Course,3,348.81,Dine-in,4.0,Excellent food,513,382
+2025-04-21,Pizza,Main Course,4,940.79,Delivery,4.4,Loved it!,740,650
+2025-04-21,Pasta,Main Course,3,443.69,Dine-in,4.8,Not satisfied,552,432
+2025-04-21,Tandoori Chicken,Starter,1,112.79,Dine-in,3.7,Too spicy,185,52
+2025-04-21,Chicken Curry,Main Course,3,762.96,Dine-in,2.9,Too spicy,312,140
+2025-04-21,Veg Biryani,Main Course,2,213.48,Delivery,4.9,Too spicy,314,137
+2025-04-21,Paneer Butter Masala,Main Course,2,235.01,Delivery,5.0,Late delivery,292,98
+2025-04-21,Chicken Curry,Main Course,4,1003.59,Dine-in,3.7,Loved it!,512,339
+2025-04-21,Dal Makhani,Main Course,2,261.46,Delivery,2.7,Will order again,310,185
+2025-04-21,Chicken Curry,Main Course,5,557.03,Dine-in,4.0,Average experience,775,599
+2025-04-21,Gulab Jamun,Dessert,3,550.64,Dine-in,4.9,Too spicy,504,305
+2025-04-21,Tandoori Chicken,Starter,1,265.73,Delivery,4.3,Excellent food,156,0
+2025-04-21,Pizza,Main Course,5,1344.96,Dine-in,3.1,Perfect taste,660,538
+2025-04-21,Tandoori Chicken,Starter,6,1380.03,Delivery,3.6,Late delivery,858,767
+2025-04-21,Pizza,Main Course,3,876.27,Delivery,3.3,Superb!,579,412
+2025-04-20,Dal Makhani,Main Course,1,239.58,Delivery,3.5,Too spicy,117,0
+2025-04-20,Gulab Jamun,Dessert,1,256.07,Delivery,2.6,Late delivery,145,0
+2025-04-20,Veg Biryani,Main Course,2,477.35,Delivery,3.9,Excellent food,340,158
+2025-04-20,Chicken Curry,Main Course,2,368.87,Dine-in,4.5,Loved it!,258,118
+2025-04-20,Pasta,Main Course,3,355.95,Delivery,3.5,Could be better,549,404
+2025-04-20,Tandoori Chicken,Starter,3,774.83,Dine-in,4.9,Loved it!,471,303
+2025-04-20,Pizza,Main Course,6,1412.46,Delivery,2.5,Superb!,924,784
+2025-04-20,Chocolate Brownie,Dessert,2,462.17,Dine-in,3.3,Not satisfied,234,68
+2025-04-20,Pasta,Main Course,3,415.82,Dine-in,4.7,Too spicy,519,388
+2025-04-20,Gulab Jamun,Dessert,5,608.12,Dine-in,4.2,Could be better,515,360
+2025-04-20,Gulab Jamun,Dessert,2,301.21,Delivery,3.2,Superb!,236,149
+2025-04-20,Dal Makhani,Main Course,3,418.52,Delivery,2.9,Perfect taste,495,415
+2025-04-20,Gulab Jamun,Dessert,2,290.34,Delivery,3.2,Will order again,306,189
+2025-04-20,Tandoori Chicken,Starter,5,1136.18,Delivery,3.2,Late delivery,780,625
+2025-04-20,Paneer Butter Masala,Main Course,6,1662.58,Dine-in,2.6,Could be better,696,509
+2025-04-20,Paneer Butter Masala,Main Course,3,311.4,Dine-in,4.9,Will order again,363,202
+2025-04-20,Chocolate Brownie,Dessert,2,201.06,Delivery,3.6,Perfect taste,242,121
+2025-04-20,Pasta,Main Course,4,1162.1,Dine-in,4.6,Late delivery,500,364
+2025-04-20,Dal Makhani,Main Course,3,395.02,Dine-in,4.0,Average experience,312,222
+2025-04-20,Paneer Butter Masala,Main Course,6,1109.39,Delivery,4.1,Too spicy,852,750
+2025-04-19,Dal Makhani,Main Course,6,1236.51,Delivery,3.0,Excellent food,1158,983
+2025-04-19,Tandoori Chicken,Starter,6,639.78,Delivery,3.7,Late delivery,768,663
+2025-04-19,Chocolate Brownie,Dessert,2,439.69,Delivery,3.1,Superb!,266,184
+2025-04-19,Paneer Butter Masala,Main Course,1,213.79,Delivery,3.3,Average experience,192,35
+2025-04-19,Chocolate Brownie,Dessert,2,206.71,Delivery,4.7,Perfect taste,246,159
+2025-04-19,Butter Naan,Bread,3,377.65,Dine-in,4.0,Superb!,381,188
+2025-04-19,Veg Biryani,Main Course,2,303.17,Delivery,2.9,Will order again,216,62
+2025-04-19,Paneer Butter Masala,Main Course,1,244.52,Dine-in,4.3,Will order again,194,88
+2025-04-19,Butter Naan,Bread,3,319.57,Delivery,3.5,Late delivery,369,239
+2025-04-19,Tandoori Chicken,Starter,3,612.37,Dine-in,4.6,Excellent food,561,370
+2025-04-19,Tandoori Chicken,Starter,2,526.19,Delivery,4.5,Will order again,202,105
+2025-04-19,Butter Naan,Bread,1,261.14,Delivery,3.7,Will order again,141,0
+2025-04-19,Pasta,Main Course,4,1053.8,Delivery,4.7,Superb!,432,347
+2025-04-19,Dal Makhani,Main Course,4,1023.02,Dine-in,4.6,Late delivery,512,322
+2025-04-19,Pizza,Main Course,2,507.06,Delivery,5.0,Excellent food,340,223
+2025-04-19,Chicken Curry,Main Course,1,271.78,Delivery,2.7,Excellent food,147,0
+2025-04-19,Chocolate Brownie,Dessert,1,127.06,Dine-in,4.5,Not satisfied,184,62
+2025-04-19,Gulab Jamun,Dessert,5,724.58,Dine-in,3.9,Average experience,555,472
+2025-04-19,Paneer Butter Masala,Main Course,2,454.83,Dine-in,4.9,Too spicy,236,136
+2025-04-19,Gulab Jamun,Dessert,4,896.57,Dine-in,4.0,Perfect taste,760,618
+2025-04-19,Tandoori Chicken,Starter,5,1410.89,Delivery,2.7,Late delivery,520,411
+2025-04-19,Pizza,Main Course,2,431.28,Dine-in,4.4,Could be better,254,159
+2025-04-19,Pasta,Main Course,2,264.5,Delivery,4.1,Loved it!,290,132
+2025-04-18,Pizza,Main Course,1,114.26,Dine-in,4.5,Not satisfied,187,8
+2025-04-18,Butter Naan,Bread,1,203.75,Dine-in,3.0,Too spicy,135,0
+2025-04-18,Chicken Curry,Main Course,1,183.76,Delivery,4.1,Excellent food,163,0
+2025-04-18,Butter Naan,Bread,4,1171.72,Dine-in,3.0,Not satisfied,676,527
+2025-04-18,Chocolate Brownie,Dessert,3,841.73,Dine-in,2.8,Excellent food,489,393
+2025-04-18,Dal Makhani,Main Course,3,523.97,Delivery,4.1,Could be better,303,126
+2025-04-18,Pasta,Main Course,2,506.82,Delivery,3.8,Will order again,250,74
+2025-04-18,Paneer Butter Masala,Main Course,3,847.6,Dine-in,3.7,Could be better,423,243
+2025-04-18,Gulab Jamun,Dessert,3,430.61,Dine-in,5.0,Could be better,477,333
+2025-04-18,Butter Naan,Bread,1,163.64,Dine-in,4.7,Average experience,112,0
+2025-04-18,Dal Makhani,Main Course,2,490.54,Dine-in,3.2,Loved it!,358,229
+2025-04-18,Dal Makhani,Main Course,4,1073.57,Dine-in,4.2,Superb!,624,446
+2025-04-18,Paneer Butter Masala,Main Course,5,923.84,Dine-in,4.0,Loved it!,820,687
+2025-04-18,Chocolate Brownie,Dessert,4,441.94,Delivery,3.3,Loved it!,688,559
+2025-04-18,Veg Biryani,Main Course,1,163.09,Delivery,4.7,Excellent food,188,73
+2025-04-18,Pizza,Main Course,1,153.85,Delivery,4.6,Average experience,148,46
+2025-04-18,Tandoori Chicken,Starter,1,215.61,Dine-in,3.2,Could be better,104,0
+2025-04-18,Chocolate Brownie,Dessert,2,552.81,Dine-in,3.0,Perfect taste,340,236
+2025-04-18,Veg Biryani,Main Course,3,719.89,Delivery,2.7,Not satisfied,312,200
+2025-04-18,Butter Naan,Bread,3,490.72,Dine-in,4.3,Not satisfied,435,322
+2025-04-18,Butter Naan,Bread,6,1477.37,Delivery,2.9,Not satisfied,702,546
+2025-04-18,Dal Makhani,Main Course,2,343.12,Delivery,4.6,Superb!,328,215
+2025-04-18,Pizza,Main Course,4,1042.55,Dine-in,4.7,Perfect taste,556,401
+2025-04-18,Veg Biryani,Main Course,5,1021.62,Dine-in,3.9,Loved it!,655,471
+2025-04-18,Pasta,Main Course,3,609.84,Delivery,3.5,Superb!,495,303
+2025-04-18,Gulab Jamun,Dessert,4,843.09,Dine-in,2.6,Loved it!,548,415
+2025-04-18,Dal Makhani,Main Course,3,603.38,Dine-in,3.0,Excellent food,417,219
+2025-04-17,Gulab Jamun,Dessert,2,424.65,Delivery,3.8,Superb!,236,55
+2025-04-17,Butter Naan,Bread,5,1039.13,Dine-in,2.7,Perfect taste,700,619
+2025-04-17,Chicken Curry,Main Course,2,238.57,Dine-in,4.2,Could be better,348,229
+2025-04-17,Butter Naan,Bread,4,948.86,Delivery,3.0,Too spicy,716,615
+2025-04-17,Veg Biryani,Main Course,2,450.65,Dine-in,3.0,Will order again,208,30
+2025-04-17,Pizza,Main Course,2,498.4,Dine-in,4.4,Too spicy,362,197
+2025-04-17,Chicken Curry,Main Course,4,578.23,Dine-in,4.7,Not satisfied,568,479
+2025-04-17,Dal Makhani,Main Course,1,209.83,Delivery,3.7,Average experience,180,75
+2025-04-17,Butter Naan,Bread,2,200.99,Delivery,4.8,Loved it!,350,240
+2025-04-17,Veg Biryani,Main Course,2,491.22,Delivery,3.0,Superb!,308,142
+2025-04-17,Chocolate Brownie,Dessert,1,180.69,Dine-in,3.7,Not satisfied,127,0
+2025-04-17,Chocolate Brownie,Dessert,2,230.14,Delivery,4.3,Perfect taste,204,17
+2025-04-17,Tandoori Chicken,Starter,3,652.54,Dine-in,3.8,Not satisfied,588,453
+2025-04-17,Paneer Butter Masala,Main Course,1,213.97,Delivery,4.6,Late delivery,123,0
+2025-04-17,Gulab Jamun,Dessert,4,566.41,Dine-in,3.5,Not satisfied,700,527
+2025-04-17,Dal Makhani,Main Course,5,1165.21,Delivery,2.7,Could be better,840,702
+2025-04-17,Dal Makhani,Main Course,5,1226.04,Delivery,4.5,Perfect taste,720,524
+2025-04-17,Tandoori Chicken,Starter,2,589.29,Dine-in,3.5,Average experience,346,261
+2025-04-17,Butter Naan,Bread,2,444.61,Dine-in,2.6,Not satisfied,372,189
+2025-04-17,Butter Naan,Bread,1,108.91,Dine-in,4.9,Average experience,173,18
+2025-04-17,Chocolate Brownie,Dessert,1,215.44,Delivery,4.4,Excellent food,136,43
+2025-04-17,Gulab Jamun,Dessert,5,1116.86,Delivery,4.9,Not satisfied,595,433
+2025-04-17,Pasta,Main Course,3,814.11,Delivery,4.2,Superb!,507,307
+2025-04-17,Chicken Curry,Main Course,2,317.43,Delivery,3.7,Superb!,366,216
+2025-04-17,Chocolate Brownie,Dessert,2,284.83,Dine-in,3.6,Too spicy,234,151
+2025-04-17,Paneer Butter Masala,Main Course,4,979.62,Delivery,3.3,Could be better,520,341
+2025-04-17,Gulab Jamun,Dessert,5,990.25,Dine-in,4.2,Superb!,735,613
+2025-04-17,Chicken Curry,Main Course,5,1103.65,Delivery,3.5,Not satisfied,605,409
+2025-04-17,Butter Naan,Bread,4,1133.61,Dine-in,3.7,Loved it!,420,298
+2025-04-17,Gulab Jamun,Dessert,3,664.08,Delivery,4.8,Superb!,468,371
+2025-04-16,Dal Makhani,Main Course,3,736.11,Dine-in,3.1,Could be better,354,249
+2025-04-16,Dal Makhani,Main Course,1,225.5,Delivery,4.7,Loved it!,136,0
+2025-04-16,Pasta,Main Course,5,1242.09,Delivery,3.1,Superb!,585,484
+2025-04-16,Gulab Jamun,Dessert,3,597.02,Delivery,3.2,Average experience,369,251
+2025-04-16,Paneer Butter Masala,Main Course,6,1571.11,Dine-in,4.5,Late delivery,1002,907
+2025-04-16,Chicken Curry,Main Course,3,440.89,Dine-in,3.6,Perfect taste,381,214
+2025-04-16,Dal Makhani,Main Course,1,198.35,Delivery,2.6,Could be better,169,28
+2025-04-16,Pizza,Main Course,4,852.35,Dine-in,4.9,Loved it!,516,394
+2025-04-16,Paneer Butter Masala,Main Course,6,833.57,Dine-in,4.3,Loved it!,1002,865
+2025-04-16,Chicken Curry,Main Course,2,591.52,Dine-in,2.9,Could be better,338,151
+2025-04-16,Gulab Jamun,Dessert,1,124.73,Dine-in,2.5,Loved it!,149,0
+2025-04-16,Butter Naan,Bread,9,2385.55,Dine-in,4.9,Will order again,927,798
+2025-04-16,Tandoori Chicken,Starter,2,237.51,Delivery,3.9,Too spicy,324,170
+2025-04-16,Tandoori Chicken,Starter,3,873.5,Delivery,3.6,Late delivery,354,273
+2025-04-16,Pasta,Main Course,4,871.74,Dine-in,4.0,Average experience,552,460
+2025-04-16,Tandoori Chicken,Starter,5,1305.98,Delivery,4.9,Superb!,695,507
+2025-04-16,Pasta,Main Course,4,565.63,Delivery,3.9,Loved it!,684,497
+2025-04-15,Dal Makhani,Main Course,1,262.98,Delivery,3.0,Loved it!,172,49
+2025-04-15,Pasta,Main Course,1,140.36,Delivery,3.6,Superb!,134,6
+2025-04-15,Gulab Jamun,Dessert,4,1064.48,Delivery,3.5,Average experience,540,371
+2025-04-15,Paneer Butter Masala,Main Course,2,454.32,Dine-in,2.8,Could be better,318,208
+2025-04-15,Paneer Butter Masala,Main Course,3,439.4,Delivery,4.1,Perfect taste,390,271
+2025-04-15,Paneer Butter Masala,Main Course,4,791.95,Dine-in,4.2,Excellent food,528,352
+2025-04-15,Butter Naan,Bread,6,1047.49,Dine-in,4.7,Too spicy,750,657
+2025-04-15,Chicken Curry,Main Course,3,650.3,Delivery,4.4,Late delivery,510,331
+2025-04-15,Chocolate Brownie,Dessert,4,922.99,Dine-in,3.8,Too spicy,752,618
+2025-04-15,Gulab Jamun,Dessert,3,495.33,Dine-in,3.2,Loved it!,408,302
+2025-04-15,Tandoori Chicken,Starter,1,271.4,Delivery,3.7,Loved it!,111,0
+2025-04-15,Paneer Butter Masala,Main Course,1,233.3,Dine-in,5.0,Loved it!,113,6
+2025-04-15,Pizza,Main Course,2,314.84,Dine-in,4.5,Superb!,264,117
+2025-04-15,Veg Biryani,Main Course,2,502.49,Delivery,4.6,Late delivery,304,178
+2025-04-15,Butter Naan,Bread,4,819.12,Dine-in,4.3,Too spicy,612,447
+2025-04-15,Veg Biryani,Main Course,2,598.41,Delivery,2.6,Superb!,244,144
+2025-04-15,Veg Biryani,Main Course,1,184.26,Dine-in,3.7,Average experience,121,0
+2025-04-15,Chicken Curry,Main Course,2,255.15,Delivery,3.1,Superb!,332,225
+2025-04-15,Paneer Butter Masala,Main Course,2,299.91,Dine-in,4.8,Excellent food,202,81
+2025-04-15,Butter Naan,Bread,1,140.57,Dine-in,2.7,Average experience,139,0
+2025-04-15,Paneer Butter Masala,Main Course,2,587.05,Delivery,3.5,Loved it!,218,106
+2025-04-15,Pizza,Main Course,3,321.05,Delivery,4.4,Not satisfied,507,324
+2025-04-15,Dal Makhani,Main Course,1,256.88,Dine-in,3.0,Too spicy,199,32
+2025-04-15,Tandoori Chicken,Starter,3,333.57,Delivery,3.8,Too spicy,525,352
+2025-04-15,Paneer Butter Masala,Main Course,3,828.91,Dine-in,4.6,Loved it!,366,178
+2025-04-15,Paneer Butter Masala,Main Course,4,1079.91,Dine-in,3.7,Late delivery,500,343
+2025-04-15,Veg Biryani,Main Course,2,374.23,Dine-in,3.6,Not satisfied,366,261
+2025-04-14,Pizza,Main Course,3,465.45,Dine-in,3.7,Excellent food,426,266
+2025-04-14,Dal Makhani,Main Course,3,672.42,Dine-in,4.3,Could be better,405,268
+2025-04-14,Chicken Curry,Main Course,4,906.15,Delivery,3.5,Not satisfied,608,478
+2025-04-14,Pasta,Main Course,2,502.86,Dine-in,4.2,Loved it!,222,59
+2025-04-14,Chicken Curry,Main Course,3,833.36,Dine-in,3.8,Will order again,579,390
+2025-04-14,Chocolate Brownie,Dessert,2,213.81,Delivery,3.0,Loved it!,390,309
+2025-04-14,Tandoori Chicken,Starter,1,288.43,Dine-in,4.3,Not satisfied,174,1
+2025-04-14,Pasta,Main Course,2,488.12,Delivery,3.1,Average experience,206,19
+2025-04-14,Chicken Curry,Main Course,2,218.99,Delivery,3.1,Average experience,378,192
+2025-04-14,Dal Makhani,Main Course,6,1308.96,Delivery,2.9,Too spicy,900,742
+2025-04-14,Paneer Butter Masala,Main Course,4,679.46,Dine-in,3.3,Late delivery,580,481
+2025-04-14,Butter Naan,Bread,1,107.92,Delivery,4.7,Excellent food,138,0
+2025-04-14,Dal Makhani,Main Course,2,521.52,Delivery,3.6,Could be better,270,128
+2025-04-14,Chicken Curry,Main Course,3,336.55,Delivery,3.1,Not satisfied,438,287
+2025-04-14,Paneer Butter Masala,Main Course,4,1186.75,Dine-in,4.0,Superb!,428,292
+2025-04-14,Tandoori Chicken,Starter,2,489.94,Dine-in,4.2,Superb!,246,93
+2025-04-14,Chicken Curry,Main Course,2,554.4,Delivery,3.5,Average experience,362,206
+2025-04-14,Paneer Butter Masala,Main Course,2,470.54,Dine-in,3.8,Perfect taste,212,58
+2025-04-14,Dal Makhani,Main Course,2,490.11,Delivery,2.7,Could be better,290,160
+2025-04-14,Gulab Jamun,Dessert,4,947.44,Dine-in,4.2,Average experience,476,361
+2025-04-14,Pasta,Main Course,5,537.8,Dine-in,4.3,Too spicy,910,810
+2025-04-14,Butter Naan,Bread,2,206.73,Delivery,4.1,Too spicy,298,158
+2025-04-14,Chocolate Brownie,Dessert,4,1032.92,Dine-in,4.3,Could be better,412,326
+2025-04-14,Dal Makhani,Main Course,3,603.36,Delivery,2.6,Not satisfied,543,366
+2025-04-14,Tandoori Chicken,Starter,3,780.44,Delivery,3.9,Loved it!,528,424
+2025-04-14,Butter Naan,Bread,1,132.21,Dine-in,4.1,Superb!,169,63
+2025-04-14,Butter Naan,Bread,3,695.08,Dine-in,4.2,Perfect taste,381,189
+2025-04-14,Gulab Jamun,Dessert,2,576.56,Delivery,4.2,Will order again,340,155
+2025-04-13,Paneer Butter Masala,Main Course,2,351.14,Delivery,4.0,Will order again,390,245
+2025-04-13,Butter Naan,Bread,2,566.91,Dine-in,3.6,Superb!,312,179
+2025-04-13,Paneer Butter Masala,Main Course,1,219.9,Dine-in,2.8,Loved it!,121,0
+2025-04-13,Pasta,Main Course,4,483.7,Delivery,2.8,Excellent food,636,544
+2025-04-13,Gulab Jamun,Dessert,5,1161.77,Dine-in,4.2,Loved it!,600,483
+2025-04-13,Gulab Jamun,Dessert,5,524.97,Dine-in,3.2,Not satisfied,970,851
+2025-04-13,Chocolate Brownie,Dessert,3,607.08,Dine-in,2.6,Superb!,528,352
+2025-04-13,Chicken Curry,Main Course,1,177.19,Dine-in,4.7,Too spicy,135,0
+2025-04-13,Tandoori Chicken,Starter,4,416.79,Delivery,3.8,Too spicy,656,561
+2025-04-13,Butter Naan,Bread,3,876.59,Delivery,3.5,Will order again,303,114
+2025-04-13,Veg Biryani,Main Course,2,447.68,Delivery,2.9,Will order again,330,192
+2025-04-13,Pasta,Main Course,3,848.33,Dine-in,4.5,Perfect taste,570,381
+2025-04-13,Pizza,Main Course,4,1026.4,Dine-in,3.8,Loved it!,548,409
+2025-04-13,Pizza,Main Course,3,837.05,Delivery,4.7,Could be better,522,419
+2025-04-13,Chicken Curry,Main Course,3,897.49,Dine-in,4.5,Will order again,420,319
+2025-04-13,Pizza,Main Course,5,704.3,Dine-in,4.5,Not satisfied,540,391
+2025-04-13,Dal Makhani,Main Course,1,260.81,Dine-in,4.2,Average experience,106,0
+2025-04-13,Gulab Jamun,Dessert,4,675.27,Dine-in,3.6,Superb!,556,371
+2025-04-13,Gulab Jamun,Dessert,6,1297.12,Dine-in,3.6,Too spicy,666,499
+2025-04-13,Pasta,Main Course,2,562.59,Delivery,3.4,Late delivery,212,85
+2025-04-12,Gulab Jamun,Dessert,2,534.98,Dine-in,3.3,Too spicy,364,214
+2025-04-12,Butter Naan,Bread,4,570.15,Delivery,4.8,Too spicy,508,410
+2025-04-12,Pizza,Main Course,2,282.92,Dine-in,3.8,Perfect taste,308,127
+2025-04-12,Pasta,Main Course,2,425.83,Dine-in,2.6,Late delivery,228,144
+2025-04-12,Gulab Jamun,Dessert,3,734.38,Dine-in,3.7,Could be better,513,382
+2025-04-12,Chocolate Brownie,Dessert,3,681.09,Dine-in,3.3,Late delivery,435,259
+2025-04-12,Butter Naan,Bread,4,630.53,Delivery,3.3,Will order again,612,491
+2025-04-12,Tandoori Chicken,Starter,2,278.67,Dine-in,2.5,Will order again,234,96
+2025-04-12,Veg Biryani,Main Course,4,455.56,Dine-in,4.7,Perfect taste,660,554
+2025-04-12,Dal Makhani,Main Course,3,710.77,Delivery,4.9,Loved it!,411,246
+2025-04-12,Chocolate Brownie,Dessert,3,839.65,Dine-in,3.7,Could be better,534,414
+2025-04-12,Pizza,Main Course,7,972.79,Dine-in,4.0,Perfect taste,707,613
+2025-04-12,Tandoori Chicken,Starter,4,524.99,Delivery,3.3,Average experience,788,647
+2025-04-12,Paneer Butter Masala,Main Course,4,942.65,Delivery,3.2,Will order again,780,700
+2025-04-12,Tandoori Chicken,Starter,3,477.47,Dine-in,2.7,Average experience,594,402
+2025-04-12,Butter Naan,Bread,5,870.6,Dine-in,3.3,Not satisfied,960,857
+2025-04-11,Chocolate Brownie,Dessert,1,175.45,Dine-in,3.6,Late delivery,186,4
+2025-04-11,Tandoori Chicken,Starter,3,741.33,Delivery,3.0,Loved it!,597,437
+2025-04-11,Tandoori Chicken,Starter,2,453.12,Delivery,4.6,Average experience,396,221
+2025-04-11,Chicken Curry,Main Course,4,704.13,Delivery,4.7,Superb!,692,513
+2025-04-11,Dal Makhani,Main Course,3,396.0,Delivery,4.5,Average experience,324,188
+2025-04-11,Gulab Jamun,Dessert,2,488.85,Delivery,3.3,Average experience,306,202
+2025-04-11,Gulab Jamun,Dessert,2,514.71,Delivery,3.0,Average experience,386,251
+2025-04-11,Pizza,Main Course,4,1098.83,Delivery,4.4,Will order again,416,219
+2025-04-11,Paneer Butter Masala,Main Course,2,352.25,Dine-in,4.9,Late delivery,210,80
+2025-04-11,Pizza,Main Course,2,537.59,Dine-in,3.8,Average experience,290,100
+2025-04-11,Tandoori Chicken,Starter,3,574.65,Dine-in,4.2,Could be better,570,459
+2025-04-11,Pizza,Main Course,1,145.55,Dine-in,4.9,Not satisfied,151,12
+2025-04-11,Butter Naan,Bread,4,546.35,Dine-in,4.0,Will order again,716,626
+2025-04-10,Tandoori Chicken,Starter,4,667.51,Dine-in,4.4,Excellent food,656,569
+2025-04-10,Tandoori Chicken,Starter,2,397.71,Dine-in,3.2,Average experience,260,145
+2025-04-10,Pasta,Main Course,3,855.23,Dine-in,2.6,Late delivery,411,228
+2025-04-10,Chicken Curry,Main Course,4,776.1,Delivery,3.8,Loved it!,688,510
+2025-04-10,Pizza,Main Course,3,485.86,Delivery,3.3,Could be better,456,322
+2025-04-10,Dal Makhani,Main Course,4,1089.77,Delivery,4.0,Loved it!,584,487
+2025-04-10,Pasta,Main Course,3,354.44,Dine-in,3.1,Average experience,438,308
+2025-04-10,Chicken Curry,Main Course,1,271.55,Delivery,3.3,Too spicy,121,0
+2025-04-10,Gulab Jamun,Dessert,2,367.48,Dine-in,4.9,Excellent food,238,55
+2025-04-10,Veg Biryani,Main Course,2,395.62,Delivery,3.6,Late delivery,398,241
+2025-04-10,Chicken Curry,Main Course,2,454.36,Dine-in,3.3,Could be better,246,155
+2025-04-10,Chicken Curry,Main Course,2,341.14,Dine-in,4.6,Late delivery,344,149
+2025-04-10,Chicken Curry,Main Course,1,213.11,Delivery,4.7,Too spicy,168,8
+2025-04-10,Veg Biryani,Main Course,3,392.83,Delivery,2.9,Excellent food,489,348
+2025-04-09,Paneer Butter Masala,Main Course,2,359.73,Dine-in,2.6,Loved it!,270,113
+2025-04-09,Veg Biryani,Main Course,4,520.3,Dine-in,2.5,Not satisfied,516,382
+2025-04-09,Pasta,Main Course,3,757.64,Dine-in,4.4,Perfect taste,480,315
+2025-04-09,Paneer Butter Masala,Main Course,3,506.68,Delivery,4.8,Perfect taste,399,276
+2025-04-09,Paneer Butter Masala,Main Course,1,283.22,Dine-in,3.7,Average experience,128,10
+2025-04-09,Gulab Jamun,Dessert,2,250.23,Delivery,2.8,Perfect taste,212,95
+2025-04-09,Chicken Curry,Main Course,2,584.48,Dine-in,4.5,Superb!,346,178
+2025-04-09,Dal Makhani,Main Course,4,867.97,Dine-in,3.2,Perfect taste,680,547
+2025-04-09,Dal Makhani,Main Course,2,295.89,Dine-in,3.8,Perfect taste,328,182
+2025-04-09,Gulab Jamun,Dessert,3,339.91,Dine-in,5.0,Excellent food,552,446
+2025-04-09,Paneer Butter Masala,Main Course,3,490.36,Delivery,4.1,Excellent food,369,259
+2025-04-09,Chocolate Brownie,Dessert,4,1113.9,Delivery,4.3,Could be better,712,615
+2025-04-09,Butter Naan,Bread,5,1274.53,Dine-in,4.0,Excellent food,595,409
+2025-04-09,Pizza,Main Course,1,231.93,Dine-in,3.5,Will order again,129,0
+2025-04-08,Butter Naan,Bread,3,396.63,Delivery,4.7,Will order again,375,184
+2025-04-08,Gulab Jamun,Dessert,2,394.85,Dine-in,3.5,Excellent food,340,190
+2025-04-08,Pizza,Main Course,4,1056.68,Dine-in,2.8,Superb!,640,509
+2025-04-08,Tandoori Chicken,Starter,2,535.18,Dine-in,4.2,Loved it!,256,97
+2025-04-08,Pizza,Main Course,2,598.91,Delivery,4.9,Will order again,240,139
+2025-04-08,Pasta,Main Course,3,336.07,Dine-in,2.8,Perfect taste,474,291
+2025-04-08,Chocolate Brownie,Dessert,3,429.02,Delivery,3.2,Loved it!,459,354
+2025-04-08,Gulab Jamun,Dessert,1,196.87,Dine-in,4.0,Late delivery,193,97
+2025-04-08,Butter Naan,Bread,2,519.58,Delivery,3.4,Average experience,244,149
+2025-04-08,Gulab Jamun,Dessert,5,907.86,Dine-in,3.8,Too spicy,780,582
+2025-04-08,Tandoori Chicken,Starter,4,772.7,Delivery,4.4,Could be better,532,378
+2025-04-08,Chicken Curry,Main Course,1,144.26,Delivery,4.4,Average experience,110,0
+2025-04-08,Chicken Curry,Main Course,2,267.05,Delivery,2.9,Superb!,256,165
+2025-04-08,Chocolate Brownie,Dessert,1,203.0,Delivery,2.5,Perfect taste,103,0
+2025-04-08,Chicken Curry,Main Course,3,861.47,Delivery,5.0,Average experience,360,174
+2025-04-08,Pizza,Main Course,2,209.97,Delivery,4.7,Excellent food,374,210
+2025-04-08,Butter Naan,Bread,3,746.82,Dine-in,2.9,Could be better,423,272
+2025-04-08,Butter Naan,Bread,5,991.69,Dine-in,4.2,Superb!,765,610
+2025-04-08,Pasta,Main Course,1,196.19,Dine-in,3.8,Too spicy,129,9
+2025-04-08,Dal Makhani,Main Course,3,410.43,Delivery,4.6,Average experience,411,224
+2025-04-08,Butter Naan,Bread,3,841.59,Delivery,2.5,Average experience,579,379
+2025-04-08,Chicken Curry,Main Course,2,426.73,Delivery,4.5,Perfect taste,304,189
+2025-04-08,Paneer Butter Masala,Main Course,1,225.97,Dine-in,4.7,Excellent food,170,69
+2025-04-08,Veg Biryani,Main Course,4,1194.33,Dine-in,4.5,Excellent food,476,367
+2025-04-08,Paneer Butter Masala,Main Course,4,614.66,Dine-in,3.0,Will order again,736,580
+2025-04-08,Tandoori Chicken,Starter,3,468.03,Delivery,4.8,Perfect taste,375,280
+2025-04-07,Gulab Jamun,Dessert,1,189.98,Dine-in,3.3,Perfect taste,190,25
+2025-04-07,Veg Biryani,Main Course,2,373.28,Delivery,4.2,Average experience,294,145
+2025-04-07,Pizza,Main Course,3,590.42,Delivery,3.2,Late delivery,528,377
+2025-04-07,Chicken Curry,Main Course,6,1195.51,Delivery,2.8,Will order again,966,883
+2025-04-07,Veg Biryani,Main Course,3,871.45,Dine-in,3.1,Perfect taste,414,261
+2025-04-07,Dal Makhani,Main Course,4,852.49,Dine-in,4.6,Perfect taste,572,451
+2025-04-07,Paneer Butter Masala,Main Course,3,352.2,Dine-in,3.9,Late delivery,525,367
+2025-04-07,Paneer Butter Masala,Main Course,3,466.71,Delivery,3.4,Will order again,399,270
+2025-04-07,Gulab Jamun,Dessert,6,881.36,Delivery,5.0,Loved it!,780,606
+2025-04-07,Chocolate Brownie,Dessert,5,878.13,Delivery,3.2,Not satisfied,660,561
+2025-04-07,Chicken Curry,Main Course,3,862.05,Delivery,3.1,Late delivery,486,380
+2025-04-07,Pizza,Main Course,1,228.41,Delivery,2.7,Perfect taste,161,7
+2025-04-07,Chocolate Brownie,Dessert,4,663.0,Delivery,2.5,Perfect taste,508,386
+2025-04-07,Paneer Butter Masala,Main Course,3,408.52,Delivery,2.8,Could be better,561,427
+2025-04-07,Butter Naan,Bread,4,409.53,Delivery,2.6,Excellent food,552,434
+2025-04-07,Butter Naan,Bread,2,362.96,Delivery,4.5,Excellent food,316,128
+2025-04-07,Butter Naan,Bread,2,309.39,Dine-in,4.8,Too spicy,298,143
+2025-04-07,Chocolate Brownie,Dessert,6,1778.53,Delivery,3.0,Too spicy,738,561
+2025-04-07,Chocolate Brownie,Dessert,4,792.76,Delivery,2.9,Perfect taste,540,457
+2025-04-07,Gulab Jamun,Dessert,5,652.28,Dine-in,3.3,Will order again,520,357
+2025-04-07,Butter Naan,Bread,3,590.7,Delivery,3.9,Perfect taste,573,449
+2025-04-07,Gulab Jamun,Dessert,2,251.3,Dine-in,2.9,Perfect taste,266,87
+2025-04-07,Tandoori Chicken,Starter,2,379.51,Dine-in,4.8,Too spicy,330,238
+2025-04-07,Tandoori Chicken,Starter,1,108.12,Dine-in,2.7,Could be better,164,0
+2025-04-07,Chocolate Brownie,Dessert,1,109.87,Delivery,3.5,Too spicy,151,14
+2025-04-06,Pasta,Main Course,4,572.78,Delivery,4.5,Excellent food,424,257
+2025-04-06,Veg Biryani,Main Course,4,772.88,Dine-in,3.6,Superb!,780,580
+2025-04-06,Pizza,Main Course,5,527.85,Delivery,4.2,Too spicy,750,592
+2025-04-06,Gulab Jamun,Dessert,3,380.25,Delivery,4.3,Superb!,372,241
+2025-04-06,Pizza,Main Course,5,1189.97,Delivery,3.3,Average experience,535,381
+2025-04-06,Dal Makhani,Main Course,2,390.29,Dine-in,3.3,Perfect taste,306,208
+2025-04-06,Pasta,Main Course,3,751.68,Dine-in,2.9,Loved it!,354,171
+2025-04-06,Dal Makhani,Main Course,1,280.36,Dine-in,5.0,Superb!,147,18
+2025-04-06,Gulab Jamun,Dessert,6,1153.49,Delivery,3.8,Could be better,1074,990
+2025-04-06,Gulab Jamun,Dessert,3,884.54,Dine-in,4.3,Could be better,579,408
+2025-04-06,Veg Biryani,Main Course,3,807.61,Dine-in,4.8,Superb!,396,201
+2025-04-06,Dal Makhani,Main Course,4,585.57,Dine-in,3.1,Not satisfied,672,508
+2025-04-05,Pizza,Main Course,3,871.81,Delivery,3.8,Could be better,573,422
+2025-04-05,Chocolate Brownie,Dessert,7,1533.33,Dine-in,4.1,Could be better,1372,1200
+2025-04-05,Pasta,Main Course,3,838.42,Delivery,2.9,Loved it!,300,204
+2025-04-05,Pizza,Main Course,3,521.3,Delivery,2.8,Average experience,306,223
+2025-04-05,Chocolate Brownie,Dessert,3,784.48,Delivery,4.4,Perfect taste,312,205
+2025-04-05,Chicken Curry,Main Course,4,989.78,Dine-in,3.1,Superb!,436,307
+2025-04-05,Chocolate Brownie,Dessert,4,753.28,Delivery,2.9,Superb!,456,281
+2025-04-05,Gulab Jamun,Dessert,4,805.96,Delivery,3.8,Superb!,744,645
+2025-04-05,Dal Makhani,Main Course,7,1518.31,Dine-in,4.4,Not satisfied,931,737
+2025-04-05,Pasta,Main Course,2,347.12,Dine-in,3.2,Not satisfied,330,245
+2025-04-05,Chocolate Brownie,Dessert,3,527.84,Delivery,5.0,Not satisfied,435,254
+2025-04-05,Chocolate Brownie,Dessert,2,448.12,Delivery,2.6,Late delivery,368,220
+2025-04-05,Pizza,Main Course,3,682.54,Delivery,4.3,Perfect taste,477,329
+2025-04-05,Pizza,Main Course,4,1068.64,Dine-in,3.0,Excellent food,612,460
+2025-04-05,Dal Makhani,Main Course,4,464.51,Dine-in,4.0,Average experience,544,455
+2025-04-05,Dal Makhani,Main Course,3,461.27,Delivery,3.8,Perfect taste,474,279
+2025-04-05,Pasta,Main Course,2,229.58,Delivery,3.6,Could be better,244,90
+2025-04-04,Tandoori Chicken,Starter,5,759.24,Dine-in,3.3,Superb!,800,708
+2025-04-04,Tandoori Chicken,Starter,2,487.32,Dine-in,3.9,Too spicy,270,188
+2025-04-04,Chocolate Brownie,Dessert,3,304.82,Dine-in,2.9,Superb!,537,342
+2025-04-04,Pasta,Main Course,3,312.51,Delivery,3.0,Superb!,507,309
+2025-04-04,Chocolate Brownie,Dessert,3,420.3,Delivery,3.0,Will order again,486,361
+2025-04-04,Pizza,Main Course,1,180.45,Dine-in,3.2,Perfect taste,174,58
+2025-04-04,Pasta,Main Course,5,819.95,Dine-in,2.8,Superb!,855,730
+2025-04-04,Paneer Butter Masala,Main Course,2,455.09,Delivery,4.0,Late delivery,298,182
+2025-04-04,Veg Biryani,Main Course,1,222.86,Dine-in,3.3,Excellent food,122,16
+2025-04-04,Veg Biryani,Main Course,3,388.2,Delivery,4.8,Will order again,459,290
+2025-04-04,Pizza,Main Course,3,668.45,Delivery,2.5,Average experience,312,150
+2025-04-04,Veg Biryani,Main Course,4,782.58,Delivery,3.7,Will order again,780,593
+2025-04-04,Gulab Jamun,Dessert,3,388.06,Delivery,3.2,Perfect taste,309,160
+2025-04-04,Gulab Jamun,Dessert,1,162.2,Delivery,3.9,Perfect taste,185,41
+2025-04-04,Chicken Curry,Main Course,3,617.65,Delivery,2.8,Too spicy,405,277
+2025-04-04,Butter Naan,Bread,3,399.87,Delivery,4.9,Could be better,381,266
+2025-04-04,Veg Biryani,Main Course,4,1094.87,Delivery,2.9,Too spicy,420,301
+2025-04-04,Chicken Curry,Main Course,3,408.64,Dine-in,3.3,Average experience,348,220
+2025-04-04,Chicken Curry,Main Course,3,396.03,Dine-in,4.4,Excellent food,315,132
+2025-04-03,Dal Makhani,Main Course,1,144.43,Delivery,4.9,Could be better,188,94
+2025-04-03,Pizza,Main Course,4,1051.98,Dine-in,3.6,Too spicy,712,535
+2025-04-03,Tandoori Chicken,Starter,4,1044.79,Delivery,4.6,Perfect taste,780,596
+2025-04-03,Chicken Curry,Main Course,5,513.13,Delivery,2.7,Too spicy,955,765
+2025-04-03,Chicken Curry,Main Course,1,196.0,Dine-in,4.7,Too spicy,187,0
+2025-04-03,Chocolate Brownie,Dessert,5,638.16,Delivery,3.5,Too spicy,855,770
+2025-04-03,Paneer Butter Masala,Main Course,1,106.42,Dine-in,3.0,Too spicy,130,0
+2025-04-03,Tandoori Chicken,Starter,3,332.5,Dine-in,4.8,Will order again,483,287
+2025-04-03,Veg Biryani,Main Course,2,568.25,Dine-in,3.1,Perfect taste,376,266
+2025-04-03,Chicken Curry,Main Course,3,427.38,Delivery,2.7,Superb!,462,276
+2025-04-03,Butter Naan,Bread,3,512.61,Delivery,4.6,Excellent food,342,197
+2025-04-03,Tandoori Chicken,Starter,1,249.0,Dine-in,2.5,Perfect taste,169,57
+2025-04-03,Chicken Curry,Main Course,3,670.86,Dine-in,3.5,Superb!,411,212
+2025-04-03,Pasta,Main Course,5,976.78,Delivery,2.9,Will order again,505,350
+2025-04-03,Butter Naan,Bread,2,315.58,Dine-in,2.6,Superb!,290,102
+2025-04-03,Butter Naan,Bread,3,520.85,Delivery,3.0,Average experience,339,166
+2025-04-03,Pasta,Main Course,4,683.37,Delivery,4.6,Will order again,408,275
+2025-04-03,Chicken Curry,Main Course,1,186.62,Delivery,3.4,Loved it!,177,23
+2025-04-03,Chicken Curry,Main Course,3,842.12,Dine-in,4.6,Average experience,417,312
+2025-04-03,Veg Biryani,Main Course,2,367.45,Dine-in,4.0,Will order again,384,236
+2025-04-03,Gulab Jamun,Dessert,1,197.78,Dine-in,4.8,Superb!,116,19
+2025-04-03,Veg Biryani,Main Course,2,300.96,Delivery,4.5,Excellent food,342,239
+2025-04-03,Tandoori Chicken,Starter,4,769.32,Delivery,4.9,Not satisfied,716,610
+2025-04-03,Tandoori Chicken,Starter,2,365.59,Delivery,3.1,Not satisfied,264,87
+2025-04-03,Chicken Curry,Main Course,3,462.21,Delivery,3.8,Perfect taste,531,450
+2025-04-03,Veg Biryani,Main Course,2,363.99,Delivery,3.9,Will order again,230,143
+2025-04-03,Pizza,Main Course,6,734.54,Delivery,3.7,Superb!,1188,1099
+2025-04-02,Pasta,Main Course,2,205.0,Delivery,3.4,Superb!,302,148
+2025-04-02,Pasta,Main Course,5,1340.39,Delivery,4.4,Average experience,600,466
+2025-04-02,Chicken Curry,Main Course,3,398.27,Delivery,4.5,Loved it!,387,201
+2025-04-02,Gulab Jamun,Dessert,1,224.21,Delivery,4.7,Late delivery,157,33
+2025-04-02,Butter Naan,Bread,2,585.35,Delivery,3.9,Too spicy,302,154
+2025-04-02,Gulab Jamun,Dessert,4,756.64,Delivery,4.0,Could be better,508,363
+2025-04-02,Chicken Curry,Main Course,3,455.3,Delivery,2.5,Perfect taste,579,445
+2025-04-02,Pizza,Main Course,4,876.55,Dine-in,4.0,Will order again,596,503
+2025-04-02,Chocolate Brownie,Dessert,4,814.46,Delivery,4.6,Perfect taste,584,402
+2025-04-02,Pasta,Main Course,2,395.63,Dine-in,4.8,Late delivery,378,254
+2025-04-02,Tandoori Chicken,Starter,1,149.1,Dine-in,3.0,Perfect taste,105,0
+2025-04-02,Chocolate Brownie,Dessert,2,331.57,Dine-in,4.7,Late delivery,324,162
+2025-04-02,Dal Makhani,Main Course,5,1231.56,Delivery,3.8,Loved it!,515,391
+2025-04-02,Gulab Jamun,Dessert,3,605.17,Dine-in,3.0,Could be better,408,309
+2025-04-02,Dal Makhani,Main Course,5,702.74,Delivery,2.7,Superb!,580,435
+2025-04-02,Pasta,Main Course,4,946.69,Delivery,2.8,Loved it!,420,277
+2025-04-02,Tandoori Chicken,Starter,3,661.33,Dine-in,3.5,Will order again,582,395
+2025-04-02,Pasta,Main Course,4,1136.55,Delivery,4.4,Excellent food,444,347
+2025-04-02,Gulab Jamun,Dessert,3,420.16,Dine-in,3.2,Superb!,387,207
+2025-04-02,Chocolate Brownie,Dessert,3,385.02,Delivery,4.5,Perfect taste,477,389
+2025-04-02,Pasta,Main Course,3,523.94,Delivery,4.8,Average experience,336,209
+2025-04-02,Chocolate Brownie,Dessert,4,931.6,Delivery,3.3,Not satisfied,692,574
+2025-04-02,Paneer Butter Masala,Main Course,2,508.58,Delivery,5.0,Excellent food,228,34
+2025-04-02,Paneer Butter Masala,Main Course,3,466.87,Delivery,3.8,Loved it!,549,395
+2025-04-02,Tandoori Chicken,Starter,4,1060.05,Dine-in,3.6,Could be better,412,275
+2025-04-01,Butter Naan,Bread,3,728.65,Dine-in,4.5,Late delivery,567,474
+2025-04-01,Chicken Curry,Main Course,1,163.52,Delivery,2.5,Superb!,192,40
+2025-04-01,Veg Biryani,Main Course,2,362.18,Dine-in,5.0,Loved it!,346,185
+2025-04-01,Paneer Butter Masala,Main Course,3,704.1,Dine-in,4.8,Average experience,594,486
+2025-04-01,Tandoori Chicken,Starter,3,380.57,Dine-in,2.6,Average experience,384,270
+2025-04-01,Pizza,Main Course,2,448.22,Dine-in,3.4,Too spicy,362,202
+2025-04-01,Gulab Jamun,Dessert,1,114.31,Delivery,2.6,Not satisfied,143,0
+2025-04-01,Chocolate Brownie,Dessert,6,1011.6,Dine-in,3.2,Late delivery,678,597
+2025-04-01,Tandoori Chicken,Starter,3,579.79,Delivery,4.7,Excellent food,525,339
+2025-04-01,Dal Makhani,Main Course,2,260.23,Delivery,4.7,Superb!,352,162
+2025-04-01,Gulab Jamun,Dessert,3,439.75,Delivery,4.2,Not satisfied,540,434
+2025-04-01,Veg Biryani,Main Course,1,132.14,Delivery,4.2,Excellent food,163,69
+2025-04-01,Chicken Curry,Main Course,3,430.52,Delivery,2.8,Perfect taste,567,429
+2025-04-01,Chocolate Brownie,Dessert,2,282.1,Dine-in,3.8,Too spicy,244,123
+2025-04-01,Paneer Butter Masala,Main Course,4,1156.8,Delivery,3.4,Superb!,692,583
+2025-04-01,Gulab Jamun,Dessert,5,717.98,Delivery,2.9,Could be better,980,802
+2025-04-01,Tandoori Chicken,Starter,3,614.72,Delivery,2.8,Will order again,507,324
+2025-04-01,Gulab Jamun,Dessert,1,238.77,Delivery,4.7,Too spicy,146,0
+2025-03-31,Dal Makhani,Main Course,3,629.63,Delivery,2.7,Late delivery,546,438
+2025-03-31,Chicken Curry,Main Course,3,618.14,Delivery,4.7,Perfect taste,396,207
+2025-03-31,Veg Biryani,Main Course,4,1140.75,Dine-in,4.7,Average experience,760,626
+2025-03-31,Pizza,Main Course,6,1170.21,Delivery,3.7,Late delivery,786,666
+2025-03-31,Veg Biryani,Main Course,3,697.16,Delivery,2.9,Too spicy,585,465
+2025-03-31,Paneer Butter Masala,Main Course,4,625.87,Dine-in,4.2,Too spicy,424,242
+2025-03-31,Dal Makhani,Main Course,4,989.1,Delivery,3.4,Not satisfied,736,573
+2025-03-31,Pasta,Main Course,3,799.43,Dine-in,4.7,Perfect taste,432,342
+2025-03-31,Pasta,Main Course,6,1520.64,Dine-in,3.2,Late delivery,936,811
+2025-03-31,Chocolate Brownie,Dessert,3,445.28,Dine-in,3.2,Late delivery,489,319
+2025-03-31,Paneer Butter Masala,Main Course,6,1178.27,Delivery,4.6,Perfect taste,888,779
+2025-03-31,Paneer Butter Masala,Main Course,1,278.62,Delivery,3.3,Superb!,149,46
+2025-03-31,Pasta,Main Course,2,251.69,Dine-in,4.2,Could be better,204,67
+2025-03-31,Paneer Butter Masala,Main Course,2,365.23,Dine-in,2.8,Too spicy,342,207
+2025-03-31,Pasta,Main Course,3,310.96,Delivery,4.1,Too spicy,429,279
+2025-03-31,Chicken Curry,Main Course,2,531.31,Dine-in,4.3,Excellent food,378,296
+2025-03-31,Pizza,Main Course,2,369.3,Dine-in,3.3,Could be better,210,88
+2025-03-31,Dal Makhani,Main Course,1,194.47,Delivery,4.2,Could be better,162,0
+2025-03-31,Gulab Jamun,Dessert,4,1169.98,Dine-in,3.7,Loved it!,620,511
+2025-03-31,Chocolate Brownie,Dessert,4,560.72,Dine-in,2.8,Could be better,796,702
+2025-03-31,Dal Makhani,Main Course,1,197.54,Delivery,3.4,Excellent food,120,0
+2025-03-31,Tandoori Chicken,Starter,2,244.82,Dine-in,4.9,Late delivery,256,94
+2025-03-31,Paneer Butter Masala,Main Course,3,628.35,Delivery,3.8,Could be better,540,419
+2025-03-31,Pasta,Main Course,6,1708.96,Delivery,3.1,Late delivery,1176,976
+2025-03-31,Pasta,Main Course,2,239.04,Delivery,3.1,Could be better,352,236
+2025-03-31,Gulab Jamun,Dessert,4,424.5,Dine-in,3.0,Loved it!,480,392
+2025-03-31,Chicken Curry,Main Course,1,220.73,Delivery,3.5,Superb!,128,0
+2025-03-30,Veg Biryani,Main Course,3,696.52,Dine-in,4.1,Excellent food,510,421
+2025-03-30,Pizza,Main Course,2,525.45,Delivery,3.1,Superb!,310,177
+2025-03-30,Chocolate Brownie,Dessert,2,336.03,Delivery,3.4,Superb!,378,197
+2025-03-30,Chocolate Brownie,Dessert,3,780.1,Delivery,3.5,Loved it!,519,394
+2025-03-30,Butter Naan,Bread,3,794.06,Delivery,4.4,Late delivery,474,345
+2025-03-30,Paneer Butter Masala,Main Course,2,245.07,Dine-in,3.3,Superb!,258,139
+2025-03-30,Chicken Curry,Main Course,2,524.21,Delivery,3.6,Late delivery,364,176
+2025-03-30,Pasta,Main Course,2,439.37,Dine-in,3.0,Superb!,250,161
+2025-03-30,Paneer Butter Masala,Main Course,2,214.41,Dine-in,2.7,Average experience,384,263
+2025-03-30,Paneer Butter Masala,Main Course,4,580.9,Dine-in,3.5,Will order again,452,257
+2025-03-30,Chicken Curry,Main Course,3,729.21,Dine-in,2.7,Loved it!,549,364
+2025-03-30,Pasta,Main Course,6,768.72,Delivery,4.9,Late delivery,750,564
+2025-03-29,Gulab Jamun,Dessert,2,556.43,Delivery,2.7,Not satisfied,248,61
+2025-03-29,Chicken Curry,Main Course,4,1101.38,Delivery,3.9,Not satisfied,660,507
+2025-03-29,Veg Biryani,Main Course,3,353.92,Dine-in,3.2,Could be better,309,153
+2025-03-29,Gulab Jamun,Dessert,4,682.12,Dine-in,4.8,Will order again,528,402
+2025-03-29,Tandoori Chicken,Starter,4,504.12,Dine-in,3.2,Not satisfied,536,419
+2025-03-29,Pasta,Main Course,4,1015.38,Delivery,3.9,Loved it!,428,294
+2025-03-29,Pizza,Main Course,1,171.13,Delivery,4.9,Average experience,127,0
+2025-03-29,Pasta,Main Course,4,728.6,Delivery,4.3,Could be better,700,516
+2025-03-29,Gulab Jamun,Dessert,3,511.78,Delivery,4.0,Superb!,318,157
+2025-03-29,Tandoori Chicken,Starter,2,377.52,Delivery,3.5,Could be better,296,111
+2025-03-28,Veg Biryani,Main Course,3,338.59,Delivery,3.3,Too spicy,600,422
+2025-03-28,Pizza,Main Course,4,881.95,Dine-in,2.9,Will order again,460,283
+2025-03-28,Pasta,Main Course,1,274.47,Delivery,3.5,Loved it!,111,0
+2025-03-28,Veg Biryani,Main Course,3,304.17,Dine-in,4.1,Late delivery,306,107
+2025-03-28,Veg Biryani,Main Course,1,252.09,Delivery,4.7,Superb!,196,20
+2025-03-28,Dal Makhani,Main Course,1,257.92,Dine-in,3.6,Excellent food,193,40
+2025-03-28,Gulab Jamun,Dessert,3,735.68,Delivery,2.6,Loved it!,576,457
+2025-03-28,Pizza,Main Course,2,480.66,Dine-in,3.3,Excellent food,296,153
+2025-03-28,Gulab Jamun,Dessert,1,268.49,Dine-in,4.3,Excellent food,192,45
+2025-03-28,Gulab Jamun,Dessert,2,364.42,Delivery,3.0,Superb!,342,210
+2025-03-28,Dal Makhani,Main Course,3,449.11,Delivery,3.9,Late delivery,495,351
+2025-03-28,Chocolate Brownie,Dessert,4,827.91,Dine-in,2.9,Could be better,760,587
+2025-03-28,Pizza,Main Course,5,576.93,Delivery,3.2,Will order again,605,428
+2025-03-28,Tandoori Chicken,Starter,3,559.66,Dine-in,3.3,Too spicy,555,417
+2025-03-28,Dal Makhani,Main Course,3,785.13,Delivery,4.2,Loved it!,480,290
+2025-03-28,Chocolate Brownie,Dessert,3,371.96,Dine-in,4.5,Loved it!,429,292
+2025-03-28,Veg Biryani,Main Course,1,152.48,Dine-in,3.8,Excellent food,178,76
+2025-03-28,Chicken Curry,Main Course,3,753.81,Dine-in,4.7,Loved it!,369,249
+2025-03-28,Paneer Butter Masala,Main Course,4,678.06,Dine-in,3.6,Too spicy,528,388
+2025-03-28,Butter Naan,Bread,2,377.84,Delivery,3.3,Loved it!,210,127
+2025-03-28,Butter Naan,Bread,7,796.06,Dine-in,4.0,Not satisfied,728,610
+2025-03-28,Tandoori Chicken,Starter,2,322.26,Dine-in,2.8,Late delivery,386,272
+2025-03-28,Pizza,Main Course,4,606.44,Delivery,4.4,Superb!,436,295
+2025-03-28,Butter Naan,Bread,2,523.24,Delivery,3.8,Excellent food,218,21
+2025-03-28,Pizza,Main Course,2,318.98,Delivery,4.5,Late delivery,340,155
+2025-03-28,Pasta,Main Course,4,809.6,Delivery,4.6,Excellent food,704,577
+2025-03-28,Gulab Jamun,Dessert,4,1016.41,Delivery,3.1,Superb!,688,528
+2025-03-27,Chicken Curry,Main Course,4,883.73,Delivery,4.7,Excellent food,612,530
+2025-03-27,Butter Naan,Bread,2,253.65,Delivery,4.5,Late delivery,386,227
+2025-03-27,Tandoori Chicken,Starter,7,2024.82,Dine-in,3.0,Too spicy,735,637
+2025-03-27,Tandoori Chicken,Starter,1,282.7,Dine-in,3.9,Not satisfied,126,7
+2025-03-27,Chocolate Brownie,Dessert,2,307.07,Delivery,3.8,Superb!,370,230
+2025-03-27,Chicken Curry,Main Course,5,1153.71,Delivery,3.9,Late delivery,525,417
+2025-03-27,Pasta,Main Course,1,198.46,Dine-in,4.3,Too spicy,169,30
+2025-03-27,Tandoori Chicken,Starter,6,1652.38,Delivery,3.1,Will order again,744,643
+2025-03-27,Tandoori Chicken,Starter,3,600.86,Delivery,4.2,Loved it!,474,314
+2025-03-27,Paneer Butter Masala,Main Course,2,236.54,Delivery,3.2,Not satisfied,388,287
+2025-03-27,Gulab Jamun,Dessert,1,130.57,Dine-in,4.7,Not satisfied,192,80
+2025-03-27,Chocolate Brownie,Dessert,1,110.24,Delivery,4.1,Average experience,156,51
+2025-03-27,Dal Makhani,Main Course,5,1285.89,Dine-in,4.8,Could be better,875,749
+2025-03-27,Pasta,Main Course,3,363.72,Delivery,4.6,Average experience,372,222
+2025-03-27,Pizza,Main Course,3,476.39,Delivery,3.3,Loved it!,456,342
+2025-03-27,Pasta,Main Course,2,409.41,Dine-in,3.4,Too spicy,250,66
+2025-03-27,Paneer Butter Masala,Main Course,1,296.8,Dine-in,4.3,Will order again,113,0
+2025-03-27,Gulab Jamun,Dessert,3,568.34,Delivery,3.6,Loved it!,519,352
+2025-03-27,Veg Biryani,Main Course,2,403.9,Delivery,4.4,Too spicy,310,169
+2025-03-27,Chocolate Brownie,Dessert,4,768.21,Dine-in,2.9,Average experience,464,310
+2025-03-27,Butter Naan,Bread,1,214.87,Dine-in,3.5,Not satisfied,116,28
+2025-03-27,Pasta,Main Course,2,501.43,Delivery,3.0,Excellent food,320,171
+2025-03-27,Butter Naan,Bread,2,430.04,Delivery,4.4,Will order again,346,205
+2025-03-27,Chocolate Brownie,Dessert,5,557.06,Delivery,4.6,Loved it!,985,867
+2025-03-27,Tandoori Chicken,Starter,4,891.98,Dine-in,3.0,Perfect taste,660,527
+2025-03-26,Paneer Butter Masala,Main Course,3,426.59,Delivery,3.7,Could be better,510,390
+2025-03-26,Pasta,Main Course,3,675.62,Dine-in,3.0,Average experience,474,346
+2025-03-26,Tandoori Chicken,Starter,3,602.47,Delivery,4.8,Will order again,372,233
+2025-03-26,Pizza,Main Course,3,383.42,Dine-in,4.9,Will order again,537,417
+2025-03-26,Butter Naan,Bread,3,852.81,Delivery,4.4,Loved it!,510,417
+2025-03-26,Butter Naan,Bread,2,469.63,Dine-in,2.9,Could be better,382,296
+2025-03-26,Butter Naan,Bread,1,280.9,Delivery,2.7,Not satisfied,149,0
+2025-03-26,Veg Biryani,Main Course,5,1320.18,Delivery,4.0,Not satisfied,645,481
+2025-03-26,Butter Naan,Bread,1,295.64,Dine-in,3.8,Late delivery,166,84
+2025-03-26,Paneer Butter Masala,Main Course,4,1144.01,Dine-in,4.0,Not satisfied,600,414
+2025-03-26,Veg Biryani,Main Course,2,214.2,Delivery,4.2,Too spicy,304,192
+2025-03-26,Dal Makhani,Main Course,3,866.31,Delivery,2.7,Could be better,375,201
+2025-03-26,Paneer Butter Masala,Main Course,3,571.26,Dine-in,2.7,Not satisfied,501,369
+2025-03-26,Pizza,Main Course,6,686.73,Delivery,3.2,Not satisfied,900,751
+2025-03-26,Pasta,Main Course,2,591.23,Dine-in,2.6,Excellent food,270,188
+2025-03-26,Pasta,Main Course,2,223.44,Delivery,4.6,Loved it!,208,50
+2025-03-26,Pasta,Main Course,6,951.75,Delivery,3.3,Will order again,996,877
+2025-03-26,Butter Naan,Bread,2,445.33,Delivery,3.5,Excellent food,394,206
+2025-03-26,Gulab Jamun,Dessert,2,365.22,Dine-in,3.3,Average experience,252,63
+2025-03-26,Butter Naan,Bread,4,910.65,Delivery,3.2,Loved it!,684,596
+2025-03-26,Paneer Butter Masala,Main Course,1,168.88,Delivery,3.1,Too spicy,130,20
+2025-03-26,Pizza,Main Course,2,596.92,Dine-in,3.6,Excellent food,352,152
+2025-03-26,Pasta,Main Course,1,298.29,Delivery,4.8,Could be better,125,0
+2025-03-26,Paneer Butter Masala,Main Course,1,264.62,Dine-in,3.8,Perfect taste,147,1
+2025-03-26,Pizza,Main Course,4,808.93,Delivery,4.7,Could be better,504,332
+2025-03-26,Pizza,Main Course,4,446.19,Dine-in,4.5,Not satisfied,680,520
+2025-03-26,Paneer Butter Masala,Main Course,2,264.24,Delivery,4.5,Not satisfied,354,166
+2025-03-26,Chicken Curry,Main Course,3,598.47,Dine-in,4.1,Perfect taste,330,201
+2025-03-25,Butter Naan,Bread,1,135.26,Delivery,4.3,Late delivery,176,39
+2025-03-25,Tandoori Chicken,Starter,1,211.27,Dine-in,5.0,Superb!,134,0
+2025-03-25,Chicken Curry,Main Course,5,1427.76,Delivery,4.1,Excellent food,595,418
+2025-03-25,Pasta,Main Course,2,504.91,Delivery,4.7,Excellent food,232,150
+2025-03-25,Gulab Jamun,Dessert,5,1458.66,Delivery,4.5,Loved it!,695,545
+2025-03-25,Chocolate Brownie,Dessert,5,1247.56,Delivery,3.3,Loved it!,800,647
+2025-03-25,Butter Naan,Bread,5,826.12,Dine-in,3.4,Excellent food,730,588
+2025-03-25,Dal Makhani,Main Course,3,582.92,Dine-in,3.1,Too spicy,498,384
+2025-03-25,Dal Makhani,Main Course,3,610.28,Delivery,4.0,Superb!,537,449
+2025-03-25,Paneer Butter Masala,Main Course,4,793.54,Dine-in,3.6,Too spicy,684,537
+2025-03-25,Butter Naan,Bread,3,780.94,Dine-in,3.8,Could be better,564,458
+2025-03-25,Veg Biryani,Main Course,6,1489.2,Delivery,4.0,Too spicy,1104,971
+2025-03-25,Pizza,Main Course,6,1278.99,Delivery,4.8,Too spicy,678,572
+2025-03-25,Butter Naan,Bread,2,475.33,Delivery,3.7,Could be better,326,244
+2025-03-25,Dal Makhani,Main Course,3,336.99,Dine-in,2.8,Too spicy,591,424
+2025-03-24,Pasta,Main Course,2,293.51,Dine-in,3.3,Late delivery,276,134
+2025-03-24,Gulab Jamun,Dessert,3,585.24,Dine-in,3.6,Loved it!,471,352
+2025-03-24,Pizza,Main Course,5,1194.84,Delivery,3.4,Superb!,630,438
+2025-03-24,Pizza,Main Course,3,640.69,Dine-in,4.3,Perfect taste,342,155
+2025-03-24,Tandoori Chicken,Starter,5,501.31,Dine-in,3.2,Average experience,595,483
+2025-03-24,Gulab Jamun,Dessert,2,247.54,Dine-in,4.6,Excellent food,362,172
+2025-03-24,Chicken Curry,Main Course,4,996.8,Delivery,4.3,Superb!,692,528
+2025-03-24,Butter Naan,Bread,3,385.21,Delivery,3.9,Not satisfied,456,257
+2025-03-24,Pasta,Main Course,4,659.0,Dine-in,4.4,Superb!,668,512
+2025-03-24,Pizza,Main Course,4,715.8,Delivery,4.7,Excellent food,676,544
+2025-03-24,Gulab Jamun,Dessert,2,286.13,Delivery,2.9,Perfect taste,274,103
+2025-03-24,Pizza,Main Course,4,681.33,Dine-in,4.2,Loved it!,776,637
+2025-03-24,Gulab Jamun,Dessert,2,380.75,Delivery,4.5,Loved it!,346,222
+2025-03-24,Paneer Butter Masala,Main Course,4,678.62,Delivery,3.0,Loved it!,576,442
+2025-03-24,Pizza,Main Course,5,503.95,Dine-in,4.3,Excellent food,750,552
+2025-03-24,Chocolate Brownie,Dessert,3,472.54,Delivery,4.3,Excellent food,537,447
+2025-03-24,Paneer Butter Masala,Main Course,4,1093.96,Delivery,3.0,Excellent food,596,459
+2025-03-24,Chocolate Brownie,Dessert,4,706.52,Dine-in,3.2,Too spicy,696,573
+2025-03-24,Veg Biryani,Main Course,4,899.51,Dine-in,3.6,Late delivery,648,519
+2025-03-24,Tandoori Chicken,Starter,4,1075.01,Delivery,3.6,Perfect taste,448,333
+2025-03-24,Dal Makhani,Main Course,2,478.66,Dine-in,2.7,Too spicy,338,233
+2025-03-24,Chicken Curry,Main Course,1,101.9,Delivery,2.6,Superb!,135,47
+2025-03-24,Dal Makhani,Main Course,5,1358.08,Delivery,4.1,Superb!,995,878
+2025-03-24,Butter Naan,Bread,2,400.53,Delivery,3.1,Average experience,380,228
+2025-03-24,Gulab Jamun,Dessert,3,728.71,Dine-in,4.3,Late delivery,375,275
+2025-03-24,Pizza,Main Course,2,383.39,Delivery,3.8,Late delivery,218,39
+2025-03-24,Gulab Jamun,Dessert,6,1233.49,Delivery,3.6,Perfect taste,870,678
+2025-03-24,Chicken Curry,Main Course,2,374.01,Dine-in,3.4,Could be better,370,181
+2025-03-23,Tandoori Chicken,Starter,3,652.07,Dine-in,4.6,Too spicy,351,270
+2025-03-23,Paneer Butter Masala,Main Course,3,563.15,Delivery,3.1,Could be better,444,280
+2025-03-23,Tandoori Chicken,Starter,2,310.88,Delivery,3.2,Superb!,252,170
+2025-03-23,Gulab Jamun,Dessert,1,105.89,Dine-in,4.5,Loved it!,183,0
+2025-03-23,Chicken Curry,Main Course,1,106.8,Delivery,4.0,Loved it!,139,54
+2025-03-23,Gulab Jamun,Dessert,3,784.01,Dine-in,3.1,Late delivery,396,232
+2025-03-23,Chocolate Brownie,Dessert,3,832.74,Dine-in,4.4,Late delivery,576,476
+2025-03-23,Tandoori Chicken,Starter,4,588.69,Dine-in,4.6,Late delivery,472,294
+2025-03-23,Pizza,Main Course,4,948.36,Dine-in,4.9,Late delivery,748,610
+2025-03-23,Butter Naan,Bread,1,210.73,Delivery,4.6,Too spicy,102,0
+2025-03-23,Gulab Jamun,Dessert,4,621.96,Delivery,4.0,Will order again,416,326
+2025-03-23,Dal Makhani,Main Course,2,585.94,Dine-in,3.7,Late delivery,206,117
+2025-03-23,Veg Biryani,Main Course,2,292.6,Delivery,4.5,Average experience,384,194
+2025-03-23,Chicken Curry,Main Course,4,1117.14,Delivery,2.6,Late delivery,616,489
+2025-03-23,Pizza,Main Course,1,173.51,Delivery,2.9,Perfect taste,162,0
+2025-03-23,Gulab Jamun,Dessert,2,263.61,Delivery,3.2,Perfect taste,388,250
+2025-03-23,Veg Biryani,Main Course,3,407.84,Dine-in,4.5,Will order again,393,202
+2025-03-23,Chicken Curry,Main Course,3,489.0,Dine-in,3.7,Loved it!,453,318
+2025-03-23,Chocolate Brownie,Dessert,2,403.93,Delivery,4.2,Will order again,326,177
+2025-03-22,Paneer Butter Masala,Main Course,2,477.15,Dine-in,4.4,Excellent food,206,36
+2025-03-22,Butter Naan,Bread,1,142.56,Delivery,4.1,Will order again,114,0
+2025-03-22,Pasta,Main Course,2,597.5,Delivery,2.8,Average experience,392,222
+2025-03-22,Gulab Jamun,Dessert,3,656.58,Delivery,3.3,Late delivery,408,234
+2025-03-22,Gulab Jamun,Dessert,2,316.17,Delivery,3.1,Excellent food,366,214
+2025-03-22,Dal Makhani,Main Course,5,1091.84,Dine-in,3.5,Too spicy,670,582
+2025-03-22,Pizza,Main Course,2,445.77,Delivery,3.1,Excellent food,210,65
+2025-03-22,Paneer Butter Masala,Main Course,4,633.5,Delivery,3.4,Perfect taste,604,434
+2025-03-22,Chocolate Brownie,Dessert,2,355.89,Delivery,2.8,Not satisfied,228,114
+2025-03-22,Chocolate Brownie,Dessert,4,895.18,Dine-in,3.0,Loved it!,436,284
+2025-03-22,Butter Naan,Bread,1,110.78,Delivery,2.9,Will order again,159,42
+2025-03-22,Pizza,Main Course,2,522.1,Delivery,3.6,Not satisfied,316,117
+2025-03-22,Dal Makhani,Main Course,3,868.17,Dine-in,3.4,Could be better,498,336
+2025-03-21,Butter Naan,Bread,2,423.19,Dine-in,3.1,Superb!,338,183
+2025-03-21,Butter Naan,Bread,3,842.13,Delivery,3.2,Not satisfied,399,234
+2025-03-21,Dal Makhani,Main Course,3,567.63,Delivery,2.9,Superb!,570,389
+2025-03-21,Pasta,Main Course,3,380.91,Delivery,3.4,Loved it!,582,422
+2025-03-21,Dal Makhani,Main Course,5,624.72,Delivery,3.1,Perfect taste,980,858
+2025-03-21,Chocolate Brownie,Dessert,3,702.45,Delivery,4.0,Loved it!,465,318
+2025-03-21,Butter Naan,Bread,4,1003.89,Delivery,4.9,Not satisfied,532,387
+2025-03-21,Pizza,Main Course,3,559.51,Delivery,4.6,Will order again,369,180
+2025-03-21,Paneer Butter Masala,Main Course,2,376.11,Dine-in,3.7,Loved it!,214,128
+2025-03-21,Tandoori Chicken,Starter,3,732.21,Delivery,3.6,Loved it!,372,236
+2025-03-21,Tandoori Chicken,Starter,5,1078.12,Delivery,3.7,Average experience,910,746
+2025-03-21,Veg Biryani,Main Course,3,555.63,Delivery,4.0,Not satisfied,447,271
+2025-03-21,Chicken Curry,Main Course,1,133.62,Dine-in,4.4,Late delivery,149,0
+2025-03-20,Chicken Curry,Main Course,4,840.87,Delivery,3.9,Will order again,444,311
+2025-03-20,Chicken Curry,Main Course,1,107.81,Dine-in,3.9,Too spicy,102,0
+2025-03-20,Butter Naan,Bread,6,971.83,Delivery,4.1,Could be better,654,465
+2025-03-20,Tandoori Chicken,Starter,3,674.76,Delivery,2.8,Will order again,426,275
+2025-03-20,Veg Biryani,Main Course,4,440.62,Dine-in,2.7,Excellent food,712,548
+2025-03-20,Gulab Jamun,Dessert,3,808.95,Delivery,4.1,Perfect taste,306,113
+2025-03-20,Paneer Butter Masala,Main Course,6,1429.81,Dine-in,4.4,Could be better,996,874
+2025-03-20,Pizza,Main Course,3,810.55,Dine-in,4.1,Late delivery,561,361
+2025-03-20,Butter Naan,Bread,3,658.41,Dine-in,4.2,Late delivery,429,238
+2025-03-20,Dal Makhani,Main Course,2,268.67,Delivery,4.4,Perfect taste,372,204
+2025-03-20,Butter Naan,Bread,2,551.75,Dine-in,3.9,Late delivery,204,103
+2025-03-20,Dal Makhani,Main Course,7,1656.49,Dine-in,4.6,Average experience,1029,943
+2025-03-20,Veg Biryani,Main Course,2,463.36,Delivery,4.7,Could be better,240,121
+2025-03-20,Paneer Butter Masala,Main Course,3,877.49,Dine-in,3.7,Average experience,411,258
+2025-03-20,Dal Makhani,Main Course,1,216.92,Delivery,4.6,Perfect taste,167,0
+2025-03-20,Gulab Jamun,Dessert,5,586.66,Delivery,2.7,Loved it!,845,670
+2025-03-20,Paneer Butter Masala,Main Course,3,803.96,Delivery,5.0,Superb!,513,425
+2025-03-20,Butter Naan,Bread,4,684.51,Dine-in,4.3,Average experience,532,445
+2025-03-20,Dal Makhani,Main Course,4,1009.6,Dine-in,3.1,Superb!,676,508
+2025-03-20,Veg Biryani,Main Course,4,471.94,Dine-in,3.5,Average experience,600,493
+2025-03-20,Pizza,Main Course,3,879.62,Dine-in,4.9,Perfect taste,453,259
+2025-03-20,Dal Makhani,Main Course,2,206.68,Delivery,2.5,Excellent food,282,128
+2025-03-20,Chocolate Brownie,Dessert,3,477.55,Delivery,4.2,Excellent food,525,396
+2025-03-20,Tandoori Chicken,Starter,4,542.0,Delivery,3.5,Loved it!,432,319
+2025-03-20,Paneer Butter Masala,Main Course,4,632.14,Dine-in,4.4,Superb!,632,488
+2025-03-20,Dal Makhani,Main Course,4,1037.6,Delivery,2.8,Perfect taste,584,428
+2025-03-20,Gulab Jamun,Dessert,3,696.42,Dine-in,2.8,Late delivery,306,153
+2025-03-20,Butter Naan,Bread,4,869.2,Delivery,3.7,Will order again,716,578
+2025-03-19,Veg Biryani,Main Course,3,349.27,Dine-in,2.8,Average experience,579,379
+2025-03-19,Chicken Curry,Main Course,1,118.04,Delivery,2.9,Could be better,175,76
+2025-03-19,Dal Makhani,Main Course,5,689.75,Delivery,3.8,Perfect taste,705,606
+2025-03-19,Pizza,Main Course,4,464.03,Delivery,4.4,Not satisfied,788,679
+2025-03-19,Paneer Butter Masala,Main Course,3,323.91,Delivery,3.9,Average experience,381,285
+2025-03-19,Chicken Curry,Main Course,4,1152.72,Delivery,4.9,Too spicy,596,439
+2025-03-19,Butter Naan,Bread,3,755.08,Delivery,4.4,Excellent food,351,206
+2025-03-19,Chocolate Brownie,Dessert,2,375.38,Delivery,3.9,Loved it!,292,92
+2025-03-19,Paneer Butter Masala,Main Course,5,1194.92,Delivery,4.5,Superb!,815,728
+2025-03-19,Dal Makhani,Main Course,4,467.64,Dine-in,3.2,Average experience,464,363
+2025-03-19,Gulab Jamun,Dessert,5,1468.47,Delivery,3.3,Perfect taste,615,504
+2025-03-19,Gulab Jamun,Dessert,2,538.55,Delivery,3.0,Perfect taste,280,123
+2025-03-19,Gulab Jamun,Dessert,3,405.14,Delivery,4.6,Will order again,585,434
+2025-03-19,Veg Biryani,Main Course,2,480.02,Delivery,4.0,Perfect taste,216,45
+2025-03-19,Tandoori Chicken,Starter,3,557.44,Delivery,3.5,Loved it!,375,284
+2025-03-19,Chicken Curry,Main Course,2,457.67,Delivery,3.5,Not satisfied,234,91
+2025-03-18,Paneer Butter Masala,Main Course,2,537.59,Dine-in,4.8,Late delivery,290,151
+2025-03-18,Pasta,Main Course,6,1570.17,Dine-in,4.3,Late delivery,1104,971
+2025-03-18,Tandoori Chicken,Starter,1,117.26,Dine-in,2.7,Average experience,139,0
+2025-03-18,Pasta,Main Course,3,876.5,Dine-in,3.1,Loved it!,516,366
+2025-03-18,Veg Biryani,Main Course,5,1266.65,Delivery,3.8,Loved it!,655,501
+2025-03-18,Veg Biryani,Main Course,3,629.74,Dine-in,3.7,Perfect taste,579,409
+2025-03-18,Veg Biryani,Main Course,1,142.51,Dine-in,3.9,Late delivery,125,0
+2025-03-18,Tandoori Chicken,Starter,6,1417.55,Delivery,4.9,Loved it!,864,771
+2025-03-18,Chicken Curry,Main Course,3,405.66,Delivery,4.6,Too spicy,576,490
+2025-03-18,Pizza,Main Course,5,582.05,Dine-in,3.6,Late delivery,720,579
+2025-03-18,Chicken Curry,Main Course,4,809.74,Dine-in,4.1,Could be better,548,377
+2025-03-18,Chocolate Brownie,Dessert,2,499.4,Dine-in,4.1,Will order again,364,166
+2025-03-18,Veg Biryani,Main Course,3,557.4,Dine-in,3.3,Not satisfied,483,337
+2025-03-18,Pasta,Main Course,6,1780.09,Delivery,3.9,Late delivery,690,571
+2025-03-18,Chocolate Brownie,Dessert,2,595.02,Dine-in,4.0,Will order again,312,137
+2025-03-18,Chicken Curry,Main Course,2,474.65,Dine-in,3.9,Late delivery,216,69
+2025-03-18,Butter Naan,Bread,2,593.58,Dine-in,2.8,Not satisfied,266,177
+2025-03-18,Pasta,Main Course,4,908.09,Delivery,3.1,Superb!,616,453
+2025-03-18,Butter Naan,Bread,3,790.05,Dine-in,3.0,Late delivery,561,420
+2025-03-18,Dal Makhani,Main Course,2,509.66,Dine-in,4.2,Not satisfied,312,202
+2025-03-18,Paneer Butter Masala,Main Course,1,201.92,Delivery,3.0,Excellent food,124,0
+2025-03-18,Chocolate Brownie,Dessert,2,506.9,Delivery,2.7,Perfect taste,224,32
+2025-03-18,Chocolate Brownie,Dessert,1,231.33,Dine-in,2.6,Loved it!,155,0
+2025-03-18,Veg Biryani,Main Course,4,450.87,Delivery,3.1,Not satisfied,752,656
+2025-03-18,Tandoori Chicken,Starter,3,454.65,Delivery,3.7,Superb!,324,207
+2025-03-18,Pizza,Main Course,1,133.14,Delivery,2.9,Too spicy,116,0
+2025-03-18,Dal Makhani,Main Course,2,367.53,Delivery,4.2,Average experience,320,158
+2025-03-17,Chicken Curry,Main Course,4,710.12,Dine-in,2.7,Could be better,600,438
+2025-03-17,Tandoori Chicken,Starter,3,487.98,Dine-in,3.4,Too spicy,405,207
+2025-03-17,Chocolate Brownie,Dessert,2,423.33,Delivery,3.1,Too spicy,226,43
+2025-03-17,Pizza,Main Course,4,762.1,Dine-in,2.7,Too spicy,460,304
+2025-03-17,Paneer Butter Masala,Main Course,5,842.64,Dine-in,4.8,Not satisfied,765,663
+2025-03-17,Butter Naan,Bread,1,120.94,Dine-in,4.3,Late delivery,123,0
+2025-03-17,Pizza,Main Course,2,396.38,Dine-in,3.0,Excellent food,310,185
+2025-03-17,Chocolate Brownie,Dessert,2,406.9,Delivery,4.7,Not satisfied,250,101
+2025-03-17,Tandoori Chicken,Starter,3,718.57,Delivery,4.1,Excellent food,432,279
+2025-03-17,Chocolate Brownie,Dessert,3,411.99,Dine-in,2.7,Will order again,315,196
+2025-03-17,Chocolate Brownie,Dessert,1,194.36,Dine-in,3.2,Superb!,103,0
+2025-03-17,Chocolate Brownie,Dessert,3,619.41,Dine-in,3.6,Average experience,333,182
+2025-03-17,Pizza,Main Course,1,119.92,Dine-in,3.7,Late delivery,157,22
+2025-03-17,Dal Makhani,Main Course,5,1003.99,Dine-in,4.0,Not satisfied,585,483
+2025-03-17,Paneer Butter Masala,Main Course,2,238.35,Dine-in,3.9,Could be better,396,298
+2025-03-17,Butter Naan,Bread,6,1103.9,Delivery,2.7,Perfect taste,864,784
+2025-03-17,Chocolate Brownie,Dessert,2,269.27,Dine-in,3.4,Perfect taste,398,289
+2025-03-17,Pasta,Main Course,2,258.87,Dine-in,4.7,Loved it!,362,189
+2025-03-17,Pizza,Main Course,1,233.2,Dine-in,2.9,Could be better,161,0
+2025-03-17,Paneer Butter Masala,Main Course,2,533.55,Delivery,3.9,Average experience,366,190
+2025-03-17,Gulab Jamun,Dessert,3,340.34,Delivery,3.1,Late delivery,351,162
+2025-03-17,Chicken Curry,Main Course,1,287.38,Delivery,2.9,Loved it!,195,56
+2025-03-17,Chocolate Brownie,Dessert,4,648.95,Dine-in,2.9,Could be better,740,603
+2025-03-17,Chocolate Brownie,Dessert,5,1015.01,Delivery,3.3,Superb!,660,563
+2025-03-17,Tandoori Chicken,Starter,3,343.28,Dine-in,4.2,Late delivery,408,284
+2025-03-17,Butter Naan,Bread,6,1745.65,Delivery,2.8,Will order again,1020,829
+2025-03-17,Chicken Curry,Main Course,3,726.38,Delivery,3.2,Too spicy,300,163
+2025-03-17,Paneer Butter Masala,Main Course,4,721.3,Dine-in,3.5,Not satisfied,472,304
+2025-03-17,Chocolate Brownie,Dessert,2,392.07,Dine-in,3.7,Perfect taste,296,137
+2025-03-17,Veg Biryani,Main Course,3,662.83,Dine-in,3.5,Average experience,327,190
+2025-03-16,Pasta,Main Course,1,270.98,Dine-in,2.7,Could be better,163,70
+2025-03-16,Paneer Butter Masala,Main Course,4,573.49,Dine-in,4.0,Excellent food,704,520
+2025-03-16,Pizza,Main Course,2,389.18,Delivery,4.6,Will order again,328,225
+2025-03-16,Chicken Curry,Main Course,4,838.4,Dine-in,5.0,Superb!,556,370
+2025-03-16,Paneer Butter Masala,Main Course,4,1176.8,Delivery,2.6,Superb!,488,298
+2025-03-16,Butter Naan,Bread,2,277.08,Delivery,2.5,Perfect taste,324,156
+2025-03-16,Chocolate Brownie,Dessert,4,877.89,Dine-in,4.0,Could be better,648,472
+2025-03-16,Pizza,Main Course,1,137.24,Delivery,3.6,Too spicy,100,0
+2025-03-16,Tandoori Chicken,Starter,2,531.48,Delivery,2.7,Late delivery,384,297
+2025-03-16,Chocolate Brownie,Dessert,1,278.64,Delivery,2.8,Excellent food,188,85
+2025-03-16,Tandoori Chicken,Starter,3,437.7,Delivery,4.8,Could be better,558,392
+2025-03-16,Tandoori Chicken,Starter,2,215.66,Delivery,3.1,Excellent food,326,241
+2025-03-16,Butter Naan,Bread,5,1441.02,Delivery,2.6,Late delivery,505,345
+2025-03-16,Pasta,Main Course,4,907.82,Dine-in,3.4,Late delivery,692,540
+2025-03-15,Chocolate Brownie,Dessert,2,305.1,Dine-in,4.9,Loved it!,232,103
+2025-03-15,Veg Biryani,Main Course,2,293.11,Delivery,2.9,Will order again,382,300
+2025-03-15,Pizza,Main Course,5,1377.81,Delivery,2.7,Loved it!,620,430
+2025-03-15,Pasta,Main Course,2,419.57,Dine-in,2.7,Excellent food,340,203
+2025-03-15,Tandoori Chicken,Starter,2,293.04,Delivery,4.1,Loved it!,258,92
+2025-03-15,Butter Naan,Bread,2,239.97,Dine-in,4.5,Not satisfied,258,107
+2025-03-15,Paneer Butter Masala,Main Course,4,872.91,Delivery,4.1,Not satisfied,780,664
+2025-03-15,Chicken Curry,Main Course,2,512.18,Delivery,4.4,Too spicy,208,101
+2025-03-15,Chicken Curry,Main Course,3,691.33,Delivery,3.7,Loved it!,303,190
+2025-03-15,Pasta,Main Course,6,878.11,Delivery,3.1,Superb!,630,472
+2025-03-15,Butter Naan,Bread,2,439.73,Delivery,3.1,Could be better,334,192
+2025-03-15,Chicken Curry,Main Course,3,413.46,Delivery,4.0,Not satisfied,537,436
+2025-03-15,Chicken Curry,Main Course,6,1523.19,Dine-in,3.9,Loved it!,606,407
+2025-03-15,Butter Naan,Bread,2,579.47,Delivery,4.8,Too spicy,270,98
+2025-03-15,Gulab Jamun,Dessert,5,767.8,Dine-in,4.6,Excellent food,970,801
+2025-03-15,Gulab Jamun,Dessert,5,1392.84,Dine-in,2.5,Average experience,835,687
+2025-03-15,Gulab Jamun,Dessert,2,390.64,Delivery,4.3,Could be better,330,157
+2025-03-15,Veg Biryani,Main Course,3,318.61,Dine-in,4.7,Average experience,336,138
+2025-03-15,Pizza,Main Course,4,1021.55,Delivery,3.4,Late delivery,612,440
+2025-03-15,Paneer Butter Masala,Main Course,7,933.11,Dine-in,3.9,Perfect taste,1169,1042
+2025-03-15,Gulab Jamun,Dessert,1,223.57,Delivery,2.7,Could be better,149,65
+2025-03-14,Pasta,Main Course,5,1377.93,Delivery,2.9,Superb!,535,374
+2025-03-14,Veg Biryani,Main Course,4,948.07,Dine-in,2.7,Will order again,712,554
+2025-03-14,Dal Makhani,Main Course,2,382.9,Dine-in,3.5,Average experience,386,206
+2025-03-14,Gulab Jamun,Dessert,5,955.76,Delivery,4.6,Will order again,805,654
+2025-03-14,Chicken Curry,Main Course,2,352.56,Delivery,4.9,Will order again,242,90
+2025-03-14,Chicken Curry,Main Course,3,601.83,Delivery,3.6,Too spicy,507,388
+2025-03-14,Pizza,Main Course,2,217.63,Dine-in,2.6,Could be better,312,171
+2025-03-14,Dal Makhani,Main Course,5,654.72,Delivery,4.9,Excellent food,985,857
+2025-03-14,Chicken Curry,Main Course,4,559.72,Delivery,2.6,Perfect taste,540,434
+2025-03-14,Pasta,Main Course,7,2056.42,Delivery,2.7,Loved it!,1379,1299
+2025-03-14,Paneer Butter Masala,Main Course,2,284.77,Delivery,3.1,Excellent food,274,102
+2025-03-14,Paneer Butter Masala,Main Course,3,613.2,Dine-in,3.9,Could be better,483,334
+2025-03-14,Pizza,Main Course,2,386.41,Dine-in,4.4,Loved it!,388,254
+2025-03-14,Chicken Curry,Main Course,3,599.46,Delivery,3.6,Not satisfied,420,236
+2025-03-14,Pizza,Main Course,4,1017.3,Delivery,4.3,Will order again,668,572
+2025-03-14,Butter Naan,Bread,4,495.54,Delivery,3.0,Superb!,440,275
+2025-03-14,Chocolate Brownie,Dessert,1,252.03,Delivery,4.1,Average experience,191,53
+2025-03-14,Chocolate Brownie,Dessert,2,318.77,Delivery,4.8,Not satisfied,292,212
+2025-03-14,Veg Biryani,Main Course,2,570.04,Dine-in,5.0,Perfect taste,340,252
+2025-03-14,Pasta,Main Course,5,1105.6,Dine-in,2.9,Will order again,845,651
+2025-03-14,Chicken Curry,Main Course,2,451.23,Dine-in,4.3,Excellent food,382,271
+2025-03-14,Gulab Jamun,Dessert,5,583.61,Dine-in,3.1,Average experience,815,690
+2025-03-14,Dal Makhani,Main Course,1,213.49,Delivery,4.5,Not satisfied,183,0
+2025-03-13,Butter Naan,Bread,4,863.46,Dine-in,5.0,Loved it!,712,561
+2025-03-13,Pizza,Main Course,2,235.32,Dine-in,2.5,Will order again,248,108
+2025-03-13,Tandoori Chicken,Starter,3,475.83,Delivery,4.4,Loved it!,387,274
+2025-03-13,Chicken Curry,Main Course,5,641.2,Dine-in,4.6,Not satisfied,560,378
+2025-03-13,Pasta,Main Course,3,640.98,Dine-in,3.5,Late delivery,429,267
+2025-03-13,Butter Naan,Bread,2,589.68,Dine-in,4.9,Average experience,242,55
+2025-03-13,Veg Biryani,Main Course,2,316.97,Dine-in,4.5,Average experience,264,172
+2025-03-13,Pasta,Main Course,3,550.38,Delivery,4.1,Loved it!,504,309
+2025-03-13,Dal Makhani,Main Course,2,287.78,Delivery,4.4,Perfect taste,336,138
+2025-03-13,Pasta,Main Course,3,628.21,Dine-in,3.1,Not satisfied,501,302
+2025-03-13,Gulab Jamun,Dessert,2,459.17,Dine-in,4.8,Late delivery,276,78
+2025-03-13,Pasta,Main Course,3,443.53,Dine-in,4.3,Will order again,579,451
+2025-03-13,Butter Naan,Bread,1,246.19,Dine-in,3.9,Could be better,124,10
+2025-03-13,Veg Biryani,Main Course,2,564.99,Delivery,4.0,Too spicy,270,158
+2025-03-13,Butter Naan,Bread,5,922.23,Delivery,4.4,Loved it!,585,410
+2025-03-12,Dal Makhani,Main Course,4,642.07,Dine-in,3.2,Excellent food,680,583
+2025-03-12,Paneer Butter Masala,Main Course,3,837.22,Delivery,4.7,Loved it!,492,355
+2025-03-12,Tandoori Chicken,Starter,3,783.18,Dine-in,3.3,Could be better,489,297
+2025-03-12,Chocolate Brownie,Dessert,2,599.47,Dine-in,3.3,Perfect taste,232,58
+2025-03-12,Pizza,Main Course,6,1028.91,Dine-in,2.7,Average experience,732,595
+2025-03-12,Dal Makhani,Main Course,1,198.36,Dine-in,4.8,Loved it!,173,41
+2025-03-12,Butter Naan,Bread,3,648.86,Dine-in,4.7,Superb!,486,392
+2025-03-12,Pizza,Main Course,4,1107.93,Dine-in,3.0,Late delivery,580,489
+2025-03-12,Chocolate Brownie,Dessert,2,213.82,Dine-in,2.8,Average experience,354,175
+2025-03-12,Chocolate Brownie,Dessert,3,730.2,Dine-in,2.9,Too spicy,474,382
+2025-03-12,Pizza,Main Course,5,1428.73,Delivery,2.7,Perfect taste,905,790
+2025-03-12,Veg Biryani,Main Course,4,1016.91,Delivery,3.5,Perfect taste,616,521
+2025-03-12,Tandoori Chicken,Starter,3,331.25,Delivery,2.6,Too spicy,423,285
+2025-03-12,Tandoori Chicken,Starter,2,367.89,Delivery,3.4,Superb!,350,213
+2025-03-11,Chicken Curry,Main Course,4,434.76,Dine-in,4.0,Could be better,572,438
+2025-03-11,Dal Makhani,Main Course,3,585.28,Delivery,4.8,Could be better,546,458
+2025-03-11,Paneer Butter Masala,Main Course,2,235.18,Dine-in,4.6,Superb!,400,293
+2025-03-11,Paneer Butter Masala,Main Course,1,282.78,Dine-in,3.1,Not satisfied,161,0
+2025-03-11,Gulab Jamun,Dessert,1,260.76,Delivery,4.7,Excellent food,156,0
+2025-03-11,Chocolate Brownie,Dessert,3,422.35,Delivery,4.3,Too spicy,471,321
+2025-03-11,Chicken Curry,Main Course,1,158.56,Delivery,2.5,Excellent food,109,0
+2025-03-11,Chocolate Brownie,Dessert,2,217.14,Dine-in,3.5,Could be better,290,150
+2025-03-11,Pasta,Main Course,1,192.45,Dine-in,2.6,Could be better,185,87
+2025-03-11,Chicken Curry,Main Course,1,218.2,Delivery,4.2,Will order again,128,25
+2025-03-11,Chocolate Brownie,Dessert,3,569.42,Dine-in,3.5,Late delivery,306,130
+2025-03-11,Butter Naan,Bread,3,668.32,Delivery,3.5,Superb!,567,391
+2025-03-11,Chocolate Brownie,Dessert,5,950.65,Delivery,3.1,Loved it!,985,803
+2025-03-11,Gulab Jamun,Dessert,5,500.95,Delivery,4.5,Late delivery,530,334
+2025-03-11,Chocolate Brownie,Dessert,1,199.31,Delivery,2.8,Excellent food,143,33
+2025-03-11,Gulab Jamun,Dessert,3,674.58,Dine-in,3.9,Not satisfied,330,238
+2025-03-11,Dal Makhani,Main Course,2,412.55,Delivery,4.8,Late delivery,398,309
+2025-03-10,Chicken Curry,Main Course,3,488.39,Delivery,4.7,Superb!,369,247
+2025-03-10,Chicken Curry,Main Course,2,404.89,Delivery,4.5,Will order again,202,113
+2025-03-10,Chocolate Brownie,Dessert,1,285.69,Dine-in,4.1,Average experience,140,0
+2025-03-10,Butter Naan,Bread,5,1038.07,Delivery,4.2,Late delivery,995,823
+2025-03-10,Gulab Jamun,Dessert,5,1011.85,Dine-in,5.0,Excellent food,880,683
+2025-03-10,Veg Biryani,Main Course,2,202.23,Dine-in,3.2,Could be better,390,193
+2025-03-10,Veg Biryani,Main Course,2,518.0,Dine-in,4.1,Loved it!,236,78
+2025-03-10,Pasta,Main Course,4,1095.64,Delivery,4.7,Late delivery,664,583
+2025-03-10,Pasta,Main Course,7,1396.58,Dine-in,3.4,Late delivery,847,751
+2025-03-10,Pasta,Main Course,2,343.92,Dine-in,4.1,Perfect taste,320,221
+2025-03-10,Veg Biryani,Main Course,2,213.46,Delivery,3.6,Will order again,370,259
+2025-03-10,Butter Naan,Bread,4,928.17,Dine-in,4.1,Average experience,576,410
+2025-03-10,Butter Naan,Bread,4,802.01,Dine-in,4.4,Not satisfied,400,235
+2025-03-10,Pasta,Main Course,2,244.8,Dine-in,2.8,Excellent food,326,229
+2025-03-10,Gulab Jamun,Dessert,3,896.47,Dine-in,4.0,Will order again,417,259
+2025-03-10,Pizza,Main Course,3,779.84,Delivery,2.6,Superb!,345,218
+2025-03-10,Pasta,Main Course,2,242.97,Dine-in,3.0,Not satisfied,224,113
+2025-03-10,Chocolate Brownie,Dessert,3,332.95,Delivery,3.5,Too spicy,324,224
+2025-03-10,Dal Makhani,Main Course,3,832.04,Delivery,3.2,Not satisfied,492,315
+2025-03-10,Pizza,Main Course,3,724.29,Dine-in,3.2,Could be better,591,403
+2025-03-10,Dal Makhani,Main Course,3,646.02,Dine-in,3.4,Excellent food,468,373
+2025-03-10,Pizza,Main Course,3,318.47,Delivery,2.6,Will order again,423,271
+2025-03-10,Butter Naan,Bread,2,356.24,Delivery,2.7,Excellent food,210,117
+2025-03-09,Tandoori Chicken,Starter,2,229.33,Dine-in,4.4,Excellent food,306,130
+2025-03-09,Tandoori Chicken,Starter,6,1368.6,Dine-in,3.7,Perfect taste,1020,909
+2025-03-09,Paneer Butter Masala,Main Course,4,1181.01,Delivery,3.0,Could be better,472,301
+2025-03-09,Tandoori Chicken,Starter,4,517.84,Dine-in,3.8,Average experience,780,645
+2025-03-09,Pasta,Main Course,2,257.39,Delivery,3.4,Too spicy,312,144
+2025-03-09,Dal Makhani,Main Course,3,599.49,Delivery,4.1,Perfect taste,348,156
+2025-03-09,Paneer Butter Masala,Main Course,8,1150.38,Delivery,3.7,Average experience,1544,1446
+2025-03-09,Butter Naan,Bread,3,741.93,Delivery,4.6,Too spicy,456,309
+2025-03-09,Tandoori Chicken,Starter,3,375.41,Delivery,2.7,Late delivery,552,400
+2025-03-09,Chocolate Brownie,Dessert,4,1119.19,Dine-in,4.9,Loved it!,732,596
+2025-03-09,Pizza,Main Course,1,224.98,Dine-in,3.4,Not satisfied,196,13
+2025-03-09,Pasta,Main Course,3,851.29,Delivery,4.3,Could be better,414,241
+2025-03-09,Gulab Jamun,Dessert,3,413.98,Delivery,2.7,Too spicy,489,340
+2025-03-09,Pasta,Main Course,3,785.84,Delivery,4.7,Superb!,378,236
+2025-03-09,Pizza,Main Course,2,243.37,Delivery,4.8,Late delivery,382,292
+2025-03-09,Paneer Butter Masala,Main Course,3,370.99,Dine-in,3.7,Average experience,306,136
+2025-03-09,Tandoori Chicken,Starter,2,391.53,Dine-in,2.8,Late delivery,388,262
+2025-03-09,Pasta,Main Course,3,318.5,Delivery,4.6,Late delivery,516,421
+2025-03-09,Tandoori Chicken,Starter,3,459.1,Dine-in,2.6,Loved it!,315,153
+2025-03-09,Gulab Jamun,Dessert,6,1403.58,Delivery,4.3,Excellent food,942,759
+2025-03-09,Pizza,Main Course,3,695.7,Delivery,2.7,Not satisfied,399,274
+2025-03-09,Chocolate Brownie,Dessert,3,834.56,Dine-in,3.5,Perfect taste,387,259
+2025-03-09,Tandoori Chicken,Starter,2,303.11,Dine-in,4.8,Could be better,362,193
+2025-03-09,Pasta,Main Course,2,544.18,Dine-in,2.9,Not satisfied,272,113
+2025-03-09,Chocolate Brownie,Dessert,1,296.37,Dine-in,2.8,Not satisfied,142,37
+2025-03-09,Gulab Jamun,Dessert,1,205.26,Delivery,4.8,Superb!,116,0
+2025-03-08,Tandoori Chicken,Starter,3,409.22,Dine-in,3.2,Could be better,417,291
+2025-03-08,Paneer Butter Masala,Main Course,5,1037.31,Dine-in,2.9,Will order again,580,441
+2025-03-08,Butter Naan,Bread,3,546.56,Delivery,3.3,Not satisfied,360,218
+2025-03-08,Chocolate Brownie,Dessert,6,1513.38,Delivery,3.9,Loved it!,1134,1025
+2025-03-08,Dal Makhani,Main Course,2,474.47,Dine-in,3.2,Excellent food,290,145
+2025-03-08,Chocolate Brownie,Dessert,2,286.41,Dine-in,3.8,Could be better,202,89
+2025-03-08,Chocolate Brownie,Dessert,3,641.33,Delivery,4.2,Late delivery,501,367
+2025-03-08,Chocolate Brownie,Dessert,1,181.72,Dine-in,3.1,Perfect taste,188,36
+2025-03-08,Pasta,Main Course,1,107.38,Delivery,4.5,Late delivery,136,0
+2025-03-08,Dal Makhani,Main Course,5,1063.53,Delivery,4.8,Late delivery,650,470
+2025-03-08,Paneer Butter Masala,Main Course,4,684.55,Delivery,4.2,Could be better,528,436
+2025-03-08,Veg Biryani,Main Course,2,221.41,Delivery,4.7,Average experience,380,240
+2025-03-08,Dal Makhani,Main Course,3,601.73,Delivery,4.8,Will order again,450,334
+2025-03-08,Gulab Jamun,Dessert,1,183.91,Delivery,2.7,Could be better,166,0
+2025-03-08,Dal Makhani,Main Course,1,287.93,Delivery,2.6,Excellent food,164,80
+2025-03-08,Pizza,Main Course,2,405.08,Dine-in,4.1,Not satisfied,338,185
+2025-03-08,Pizza,Main Course,3,324.73,Delivery,4.3,Excellent food,573,468
+2025-03-08,Chicken Curry,Main Course,3,761.52,Dine-in,4.9,Not satisfied,567,419
+2025-03-08,Gulab Jamun,Dessert,2,242.69,Dine-in,4.1,Perfect taste,330,198
+2025-03-08,Chocolate Brownie,Dessert,1,262.37,Dine-in,2.6,Not satisfied,182,48
+2025-03-08,Paneer Butter Masala,Main Course,4,841.32,Delivery,2.8,Excellent food,544,382
+2025-03-08,Gulab Jamun,Dessert,4,729.85,Delivery,4.6,Average experience,588,485
+2025-03-07,Tandoori Chicken,Starter,4,1170.61,Dine-in,3.5,Average experience,780,595
+2025-03-07,Dal Makhani,Main Course,6,968.27,Dine-in,3.1,Late delivery,942,837
+2025-03-07,Chicken Curry,Main Course,3,684.71,Delivery,3.2,Loved it!,300,219
+2025-03-07,Gulab Jamun,Dessert,3,846.09,Dine-in,4.5,Average experience,300,141
+2025-03-07,Gulab Jamun,Dessert,4,508.76,Dine-in,4.3,Excellent food,728,602
+2025-03-07,Chicken Curry,Main Course,3,759.91,Dine-in,4.3,Too spicy,564,465
+2025-03-07,Chicken Curry,Main Course,3,579.98,Delivery,2.8,Perfect taste,315,207
+2025-03-07,Chicken Curry,Main Course,3,500.9,Delivery,3.3,Perfect taste,513,420
+2025-03-07,Butter Naan,Bread,7,1747.92,Delivery,3.1,Will order again,1036,953
+2025-03-07,Veg Biryani,Main Course,5,1418.89,Dine-in,4.8,Not satisfied,960,767
+2025-03-07,Chicken Curry,Main Course,2,287.85,Delivery,3.9,Could be better,392,280
+2025-03-07,Dal Makhani,Main Course,7,2075.32,Delivery,3.7,Not satisfied,973,834
+2025-03-07,Tandoori Chicken,Starter,2,430.26,Delivery,3.4,Excellent food,268,148
+2025-03-07,Chocolate Brownie,Dessert,4,559.58,Delivery,3.9,Average experience,628,444
+2025-03-07,Tandoori Chicken,Starter,2,262.84,Delivery,4.3,Will order again,376,277
+2025-03-07,Dal Makhani,Main Course,4,1081.93,Dine-in,3.9,Will order again,788,652
+2025-03-07,Chocolate Brownie,Dessert,5,1020.65,Delivery,3.3,Will order again,910,815
+2025-03-07,Butter Naan,Bread,4,1124.25,Dine-in,3.5,Will order again,704,606
+2025-03-07,Paneer Butter Masala,Main Course,4,602.97,Dine-in,3.2,Late delivery,520,353
+2025-03-07,Veg Biryani,Main Course,3,451.79,Dine-in,4.3,Late delivery,543,400
+2025-03-07,Pizza,Main Course,5,1337.74,Dine-in,3.0,Perfect taste,500,395
+2025-03-07,Chocolate Brownie,Dessert,5,690.55,Dine-in,2.9,Excellent food,550,444
+2025-03-07,Veg Biryani,Main Course,2,555.06,Delivery,3.6,Excellent food,242,71
+2025-03-07,Pizza,Main Course,3,882.15,Delivery,4.6,Late delivery,405,300
+2025-03-07,Pasta,Main Course,3,490.02,Dine-in,3.4,Will order again,492,342
+2025-03-07,Pasta,Main Course,3,772.73,Dine-in,3.9,Perfect taste,543,450
+2025-03-07,Tandoori Chicken,Starter,3,350.48,Dine-in,3.4,Will order again,441,289
+2025-03-07,Gulab Jamun,Dessert,3,789.78,Dine-in,4.3,Average experience,567,396
+2025-03-07,Chicken Curry,Main Course,5,1474.66,Delivery,5.0,Could be better,935,829
+2025-03-06,Chocolate Brownie,Dessert,2,235.88,Delivery,4.9,Will order again,300,177
+2025-03-06,Tandoori Chicken,Starter,2,314.77,Dine-in,2.9,Not satisfied,260,138
+2025-03-06,Chocolate Brownie,Dessert,2,505.44,Delivery,4.0,Perfect taste,396,198
+2025-03-06,Dal Makhani,Main Course,3,790.17,Delivery,4.2,Too spicy,360,245
+2025-03-06,Paneer Butter Masala,Main Course,2,578.59,Dine-in,4.1,Will order again,338,235
+2025-03-06,Pasta,Main Course,2,417.18,Dine-in,4.6,Superb!,396,205
+2025-03-06,Butter Naan,Bread,4,836.01,Delivery,3.1,Average experience,564,447
+2025-03-06,Paneer Butter Masala,Main Course,3,585.57,Dine-in,3.6,Will order again,549,458
+2025-03-06,Chocolate Brownie,Dessert,2,499.92,Dine-in,3.9,Not satisfied,312,144
+2025-03-06,Tandoori Chicken,Starter,2,515.0,Dine-in,4.7,Perfect taste,374,290
+2025-03-06,Veg Biryani,Main Course,4,694.68,Dine-in,4.6,Perfect taste,460,354
+2025-03-06,Chocolate Brownie,Dessert,1,131.93,Delivery,3.4,Perfect taste,175,4
+2025-03-06,Paneer Butter Masala,Main Course,3,412.11,Delivery,2.6,Late delivery,570,465
+2025-03-06,Pasta,Main Course,4,1128.75,Delivery,3.7,Average experience,492,304
+2025-03-06,Chicken Curry,Main Course,1,162.62,Delivery,4.8,Excellent food,172,33
+2025-03-06,Gulab Jamun,Dessert,4,601.13,Delivery,3.0,Loved it!,456,328
+2025-03-06,Chocolate Brownie,Dessert,3,330.35,Delivery,4.2,Too spicy,483,296
+2025-03-06,Butter Naan,Bread,4,1042.12,Delivery,3.3,Will order again,708,535
+2025-03-06,Pizza,Main Course,3,805.43,Dine-in,3.1,Superb!,363,180
+2025-03-06,Dal Makhani,Main Course,3,639.35,Dine-in,4.9,Late delivery,351,177
+2025-03-06,Chocolate Brownie,Dessert,4,983.2,Delivery,4.1,Not satisfied,792,645
+2025-03-06,Tandoori Chicken,Starter,3,398.47,Delivery,4.1,Too spicy,546,424
+2025-03-06,Chicken Curry,Main Course,4,593.55,Delivery,2.9,Loved it!,600,418
+2025-03-06,Chocolate Brownie,Dessert,3,362.12,Delivery,3.9,Average experience,576,391
+2025-03-06,Pasta,Main Course,1,259.65,Dine-in,3.0,Superb!,111,0
+2025-03-06,Chocolate Brownie,Dessert,2,445.08,Dine-in,5.0,Loved it!,260,99
+2025-03-06,Chocolate Brownie,Dessert,4,460.41,Dine-in,4.8,Perfect taste,664,494
+2025-03-05,Gulab Jamun,Dessert,3,482.53,Delivery,4.3,Average experience,558,406
+2025-03-05,Paneer Butter Masala,Main Course,4,569.22,Delivery,4.9,Perfect taste,448,262
+2025-03-05,Butter Naan,Bread,2,325.38,Dine-in,3.9,Excellent food,356,187
+2025-03-05,Paneer Butter Masala,Main Course,3,893.91,Delivery,4.6,Could be better,531,385
+2025-03-05,Veg Biryani,Main Course,1,262.54,Delivery,2.8,Loved it!,173,47
+2025-03-05,Chicken Curry,Main Course,2,491.77,Delivery,2.9,Not satisfied,356,180
+2025-03-05,Butter Naan,Bread,2,485.94,Delivery,2.7,Superb!,248,81
+2025-03-05,Pasta,Main Course,1,152.39,Delivery,4.5,Not satisfied,198,60
+2025-03-05,Chicken Curry,Main Course,5,1194.91,Delivery,2.7,Could be better,670,470
+2025-03-05,Dal Makhani,Main Course,7,2043.56,Delivery,4.3,Excellent food,770,612
+2025-03-05,Gulab Jamun,Dessert,5,904.25,Delivery,2.7,Will order again,860,780
+2025-03-05,Dal Makhani,Main Course,4,717.05,Delivery,3.5,Late delivery,528,430
+2025-03-05,Chicken Curry,Main Course,2,425.01,Dine-in,4.0,Perfect taste,218,71
+2025-03-05,Veg Biryani,Main Course,5,868.95,Dine-in,3.6,Not satisfied,795,632
+2025-03-05,Veg Biryani,Main Course,3,812.59,Delivery,3.2,Superb!,492,315
+2025-03-05,Dal Makhani,Main Course,4,866.05,Delivery,2.7,Too spicy,704,519
+2025-03-05,Pasta,Main Course,3,786.69,Dine-in,4.3,Could be better,594,473
+2025-03-05,Gulab Jamun,Dessert,1,274.4,Dine-in,4.3,Not satisfied,105,1
+2025-03-05,Pizza,Main Course,3,616.54,Delivery,2.6,Too spicy,303,187
+2025-03-05,Paneer Butter Masala,Main Course,3,748.27,Delivery,3.3,Perfect taste,426,286
+2025-03-05,Dal Makhani,Main Course,4,952.31,Dine-in,4.2,Not satisfied,512,396
+2025-03-05,Dal Makhani,Main Course,2,593.86,Delivery,2.5,Not satisfied,272,102
+2025-03-05,Gulab Jamun,Dessert,1,113.77,Dine-in,3.9,Excellent food,101,0
+2025-03-05,Gulab Jamun,Dessert,2,578.04,Dine-in,3.7,Could be better,320,127
+2025-03-05,Paneer Butter Masala,Main Course,4,988.37,Dine-in,5.0,Too spicy,400,265
+2025-03-05,Chicken Curry,Main Course,2,316.58,Dine-in,3.1,Will order again,248,98
+2025-03-05,Tandoori Chicken,Starter,2,468.92,Dine-in,4.0,Perfect taste,398,232
+2025-03-05,Gulab Jamun,Dessert,3,596.64,Dine-in,4.8,Not satisfied,420,260
+2025-03-05,Butter Naan,Bread,6,1524.15,Dine-in,3.3,Late delivery,930,760
+2025-03-04,Gulab Jamun,Dessert,5,503.91,Dine-in,2.9,Superb!,610,435
+2025-03-04,Pasta,Main Course,3,493.93,Dine-in,4.2,Too spicy,393,202
+2025-03-04,Chicken Curry,Main Course,3,825.74,Delivery,3.9,Superb!,393,283
+2025-03-04,Pizza,Main Course,6,847.61,Delivery,3.5,Loved it!,630,457
+2025-03-04,Tandoori Chicken,Starter,2,269.38,Delivery,3.9,Late delivery,396,201
+2025-03-04,Gulab Jamun,Dessert,3,313.35,Dine-in,2.9,Superb!,342,200
+2025-03-04,Butter Naan,Bread,2,296.27,Delivery,3.0,Late delivery,244,113
+2025-03-04,Dal Makhani,Main Course,4,923.55,Delivery,4.8,Excellent food,524,419
+2025-03-04,Chicken Curry,Main Course,1,184.48,Delivery,3.2,Superb!,165,27
+2025-03-04,Chicken Curry,Main Course,1,296.63,Dine-in,3.0,Will order again,137,6
+2025-03-04,Pizza,Main Course,3,640.6,Delivery,3.3,Late delivery,318,127
+2025-03-04,Tandoori Chicken,Starter,2,371.33,Dine-in,3.9,Too spicy,240,159
+2025-03-04,Chocolate Brownie,Dessert,2,490.8,Delivery,3.4,Too spicy,262,130
+2025-03-04,Chocolate Brownie,Dessert,3,422.35,Delivery,2.6,Could be better,348,233
+2025-03-04,Chicken Curry,Main Course,2,275.77,Delivery,2.6,Not satisfied,212,129
+2025-03-04,Chicken Curry,Main Course,3,344.07,Delivery,4.2,Late delivery,447,252
+2025-03-04,Tandoori Chicken,Starter,3,373.23,Delivery,2.9,Could be better,507,328
+2025-03-04,Dal Makhani,Main Course,4,860.32,Dine-in,4.6,Loved it!,612,507
+2025-03-04,Pasta,Main Course,4,1069.49,Dine-in,2.9,Too spicy,668,502
+2025-03-04,Paneer Butter Masala,Main Course,2,359.56,Delivery,4.9,Perfect taste,330,237
+2025-03-04,Dal Makhani,Main Course,2,405.83,Dine-in,3.7,Loved it!,296,131
+2025-03-04,Tandoori Chicken,Starter,2,298.63,Dine-in,2.7,Average experience,384,242
+2025-03-04,Paneer Butter Masala,Main Course,3,818.16,Delivery,4.9,Superb!,522,405
+2025-03-04,Chocolate Brownie,Dessert,3,703.91,Dine-in,3.7,Will order again,462,322
+2025-03-04,Veg Biryani,Main Course,2,550.73,Delivery,4.3,Not satisfied,284,105
+2025-03-04,Butter Naan,Bread,2,363.01,Delivery,4.3,Will order again,358,181
+2025-03-04,Gulab Jamun,Dessert,4,777.5,Dine-in,2.9,Average experience,468,358
+2025-03-04,Dal Makhani,Main Course,2,312.89,Dine-in,3.6,Not satisfied,318,174
+2025-03-03,Veg Biryani,Main Course,6,1689.1,Delivery,4.7,Not satisfied,750,609
+2025-03-03,Paneer Butter Masala,Main Course,3,776.92,Delivery,4.0,Superb!,588,443
+2025-03-03,Butter Naan,Bread,4,1045.24,Dine-in,3.1,Loved it!,620,494
+2025-03-03,Pizza,Main Course,1,265.4,Delivery,3.6,Superb!,183,21
+2025-03-03,Veg Biryani,Main Course,4,1128.98,Dine-in,3.5,Loved it!,524,356
+2025-03-03,Tandoori Chicken,Starter,1,281.51,Delivery,3.9,Average experience,161,50
+2025-03-03,Chocolate Brownie,Dessert,5,932.2,Delivery,4.9,Late delivery,975,869
+2025-03-03,Pasta,Main Course,2,319.11,Delivery,3.2,Will order again,296,107
+2025-03-03,Paneer Butter Masala,Main Course,3,789.57,Delivery,5.0,Average experience,549,367
+2025-03-03,Dal Makhani,Main Course,4,594.86,Dine-in,3.8,Excellent food,680,526
+2025-03-03,Chocolate Brownie,Dessert,2,458.37,Delivery,2.9,Average experience,368,176
+2025-03-03,Chocolate Brownie,Dessert,1,127.65,Delivery,2.5,Excellent food,195,1
+2025-03-03,Paneer Butter Masala,Main Course,3,447.08,Delivery,2.8,Loved it!,573,460
+2025-03-03,Paneer Butter Masala,Main Course,3,639.71,Delivery,4.3,Late delivery,504,418
+2025-03-03,Pizza,Main Course,3,789.95,Delivery,3.9,Perfect taste,432,328
+2025-03-03,Pasta,Main Course,1,213.65,Delivery,3.0,Late delivery,153,0
+2025-03-03,Chicken Curry,Main Course,4,984.44,Delivery,3.9,Average experience,592,505
+2025-03-03,Dal Makhani,Main Course,6,1047.18,Delivery,3.6,Late delivery,954,790
+2025-03-03,Veg Biryani,Main Course,2,466.71,Dine-in,4.7,Late delivery,352,182
+2025-03-03,Pizza,Main Course,3,538.82,Dine-in,4.1,Too spicy,585,411
+2025-03-03,Veg Biryani,Main Course,3,861.52,Dine-in,4.0,Excellent food,345,205
+2025-03-03,Tandoori Chicken,Starter,7,1541.08,Dine-in,5.0,Could be better,1302,1125
+2025-03-03,Pizza,Main Course,2,565.41,Dine-in,3.4,Could be better,250,128
+2025-03-03,Paneer Butter Masala,Main Course,3,607.64,Delivery,3.4,Too spicy,456,256
+2025-03-03,Pizza,Main Course,2,491.68,Dine-in,4.6,Loved it!,280,163
+2025-03-03,Butter Naan,Bread,2,430.96,Delivery,4.0,Excellent food,258,60
+2025-03-03,Tandoori Chicken,Starter,3,405.73,Dine-in,2.9,Could be better,468,372
+2025-03-03,Tandoori Chicken,Starter,1,106.04,Delivery,3.6,Average experience,131,17
+2025-03-03,Paneer Butter Masala,Main Course,5,841.3,Delivery,3.1,Superb!,900,744
+2025-03-03,Veg Biryani,Main Course,3,385.86,Delivery,2.8,Late delivery,351,271
+2025-03-02,Chicken Curry,Main Course,4,1114.56,Dine-in,3.2,Loved it!,668,509
+2025-03-02,Paneer Butter Masala,Main Course,2,289.66,Delivery,2.7,Excellent food,242,127
+2025-03-02,Chocolate Brownie,Dessert,2,386.73,Delivery,2.8,Late delivery,348,164
+2025-03-02,Butter Naan,Bread,4,707.36,Dine-in,3.0,Excellent food,660,511
+2025-03-02,Pizza,Main Course,3,895.68,Dine-in,4.2,Too spicy,513,341
+2025-03-02,Tandoori Chicken,Starter,3,349.76,Dine-in,4.3,Too spicy,399,226
+2025-03-02,Paneer Butter Masala,Main Course,1,250.91,Delivery,4.3,Loved it!,115,0
+2025-03-02,Paneer Butter Masala,Main Course,2,210.42,Dine-in,3.5,Will order again,224,30
+2025-03-02,Pizza,Main Course,3,357.61,Delivery,3.2,Average experience,408,289
+2025-03-02,Veg Biryani,Main Course,1,231.75,Dine-in,3.5,Excellent food,149,16
+2025-03-02,Paneer Butter Masala,Main Course,5,1076.94,Dine-in,4.5,Perfect taste,735,543
+2025-03-02,Butter Naan,Bread,6,1152.81,Delivery,2.6,Superb!,630,519
+2025-03-02,Pasta,Main Course,1,108.32,Dine-in,4.4,Superb!,184,15
+2025-03-02,Tandoori Chicken,Starter,1,109.22,Delivery,4.5,Late delivery,194,23
+2025-03-02,Gulab Jamun,Dessert,7,1886.06,Delivery,3.5,Too spicy,1022,883
+2025-03-02,Butter Naan,Bread,1,236.75,Dine-in,3.1,Late delivery,133,0
+2025-03-02,Pasta,Main Course,2,439.68,Dine-in,2.9,Excellent food,214,103
+2025-03-02,Paneer Butter Masala,Main Course,1,189.62,Dine-in,5.0,Superb!,153,0
+2025-03-02,Chocolate Brownie,Dessert,4,945.97,Delivery,4.5,Average experience,788,609
+2025-03-02,Veg Biryani,Main Course,3,766.58,Dine-in,4.2,Will order again,384,226
+2025-03-02,Chicken Curry,Main Course,4,535.87,Delivery,4.3,Loved it!,788,700
+2025-03-02,Veg Biryani,Main Course,6,1568.91,Dine-in,4.6,Too spicy,726,641
+2025-03-02,Gulab Jamun,Dessert,6,1550.9,Dine-in,2.8,Superb!,1026,864
+2025-03-02,Butter Naan,Bread,3,691.59,Dine-in,2.9,Too spicy,345,156
+2025-03-01,Butter Naan,Bread,4,854.29,Dine-in,4.9,Loved it!,520,434
+2025-03-01,Pizza,Main Course,7,773.48,Delivery,4.5,Superb!,1323,1197
+2025-03-01,Dal Makhani,Main Course,4,752.63,Delivery,3.2,Excellent food,580,382
+2025-03-01,Tandoori Chicken,Starter,3,344.2,Dine-in,3.5,Not satisfied,435,258
+2025-03-01,Pasta,Main Course,4,1031.29,Dine-in,4.4,Average experience,728,607
+2025-03-01,Chocolate Brownie,Dessert,2,425.66,Delivery,3.0,Perfect taste,398,226
+2025-03-01,Chocolate Brownie,Dessert,2,373.56,Delivery,3.9,Will order again,286,153
+2025-03-01,Butter Naan,Bread,5,1010.99,Dine-in,3.4,Could be better,530,371
+2025-03-01,Butter Naan,Bread,1,167.1,Dine-in,4.9,Could be better,180,39
+2025-03-01,Pizza,Main Course,7,2018.75,Dine-in,3.7,Loved it!,1267,1093
+2025-03-01,Pasta,Main Course,3,390.75,Delivery,4.9,Superb!,414,313
+2025-03-01,Butter Naan,Bread,4,1122.25,Dine-in,4.6,Could be better,716,616
+2025-03-01,Dal Makhani,Main Course,3,597.72,Delivery,4.9,Too spicy,312,112
+2025-03-01,Dal Makhani,Main Course,1,122.86,Dine-in,4.7,Will order again,185,35
+2025-03-01,Chicken Curry,Main Course,2,456.02,Dine-in,4.4,Superb!,372,194
+2025-03-01,Paneer Butter Masala,Main Course,5,567.14,Delivery,3.1,Will order again,915,788
+2025-03-01,Veg Biryani,Main Course,4,1089.32,Dine-in,3.9,Excellent food,716,554
+2025-03-01,Dal Makhani,Main Course,4,668.97,Dine-in,4.4,Loved it!,640,471
+2025-03-01,Paneer Butter Masala,Main Course,6,1305.73,Dine-in,2.5,Perfect taste,738,579
+2025-03-01,Paneer Butter Masala,Main Course,2,498.97,Delivery,4.2,Too spicy,268,76
+2025-03-01,Chocolate Brownie,Dessert,5,827.58,Delivery,4.5,Superb!,520,328
+2025-03-01,Paneer Butter Masala,Main Course,2,466.31,Delivery,3.0,Average experience,270,122
+2025-02-28,Chocolate Brownie,Dessert,2,285.67,Dine-in,2.8,Average experience,340,235
+2025-02-28,Pasta,Main Course,2,529.94,Dine-in,4.5,Average experience,282,149
+2025-02-28,Pizza,Main Course,1,173.94,Delivery,3.0,Late delivery,163,21
+2025-02-28,Dal Makhani,Main Course,2,430.75,Delivery,4.1,Late delivery,230,112
+2025-02-28,Pizza,Main Course,5,599.18,Delivery,3.6,Perfect taste,620,514
+2025-02-28,Veg Biryani,Main Course,3,835.8,Delivery,3.7,Excellent food,480,349
+2025-02-28,Chocolate Brownie,Dessert,2,302.09,Delivery,2.8,Average experience,310,192
+2025-02-28,Butter Naan,Bread,2,534.87,Delivery,4.5,Superb!,392,267
+2025-02-28,Gulab Jamun,Dessert,2,287.09,Delivery,2.5,Excellent food,288,155
+2025-02-28,Butter Naan,Bread,3,578.86,Dine-in,4.9,Loved it!,555,446
+2025-02-28,Pasta,Main Course,3,646.84,Delivery,5.0,Perfect taste,600,461
+2025-02-28,Chicken Curry,Main Course,1,168.12,Delivery,4.2,Average experience,106,0
+2025-02-28,Pizza,Main Course,3,396.23,Delivery,3.3,Too spicy,516,424
+2025-02-28,Veg Biryani,Main Course,2,238.42,Delivery,2.5,Could be better,252,71
+2025-02-28,Dal Makhani,Main Course,3,617.63,Delivery,4.4,Could be better,378,185
+2025-02-28,Butter Naan,Bread,3,683.12,Delivery,3.0,Average experience,513,410
+2025-02-28,Pasta,Main Course,1,159.49,Dine-in,2.7,Will order again,159,0
+2025-02-27,Paneer Butter Masala,Main Course,3,657.3,Delivery,5.0,Too spicy,456,297
+2025-02-27,Tandoori Chicken,Starter,1,151.04,Delivery,3.5,Perfect taste,183,43
+2025-02-27,Chocolate Brownie,Dessert,4,530.25,Delivery,3.1,Could be better,576,460
+2025-02-27,Dal Makhani,Main Course,5,1031.55,Delivery,4.7,Could be better,605,454
+2025-02-27,Paneer Butter Masala,Main Course,5,882.61,Dine-in,3.0,Could be better,760,574
+2025-02-27,Butter Naan,Bread,4,741.17,Delivery,3.8,Excellent food,744,544
+2025-02-27,Chicken Curry,Main Course,4,603.82,Dine-in,3.8,Loved it!,572,476
+2025-02-27,Tandoori Chicken,Starter,3,401.21,Dine-in,3.0,Late delivery,324,154
+2025-02-27,Chocolate Brownie,Dessert,1,254.88,Delivery,2.7,Could be better,145,64
+2025-02-27,Butter Naan,Bread,3,632.49,Dine-in,4.8,Excellent food,552,427
+2025-02-27,Gulab Jamun,Dessert,4,1126.19,Delivery,2.5,Loved it!,564,374
+2025-02-27,Chocolate Brownie,Dessert,2,328.15,Dine-in,4.0,Could be better,214,44
+2025-02-27,Veg Biryani,Main Course,3,654.82,Dine-in,4.3,Loved it!,399,314
+2025-02-26,Pizza,Main Course,2,253.69,Delivery,4.2,Perfect taste,308,109
+2025-02-26,Gulab Jamun,Dessert,2,393.77,Delivery,2.8,Not satisfied,258,143
+2025-02-26,Paneer Butter Masala,Main Course,3,626.75,Dine-in,5.0,Perfect taste,384,273
+2025-02-26,Tandoori Chicken,Starter,4,945.31,Dine-in,3.3,Average experience,420,243
+2025-02-26,Tandoori Chicken,Starter,3,443.11,Dine-in,2.8,Perfect taste,501,349
+2025-02-26,Chicken Curry,Main Course,1,118.54,Delivery,2.7,Excellent food,106,0
+2025-02-26,Chocolate Brownie,Dessert,4,658.37,Delivery,4.2,Not satisfied,452,260
+2025-02-26,Chicken Curry,Main Course,3,777.65,Dine-in,2.9,Too spicy,369,280
+2025-02-26,Pasta,Main Course,3,598.77,Dine-in,2.7,Excellent food,342,156
+2025-02-26,Pizza,Main Course,1,150.06,Delivery,4.1,Average experience,165,67
+2025-02-26,Chicken Curry,Main Course,5,1477.71,Dine-in,4.0,Too spicy,665,513
+2025-02-26,Veg Biryani,Main Course,3,743.6,Dine-in,4.9,Not satisfied,318,137
+2025-02-26,Paneer Butter Masala,Main Course,3,549.56,Delivery,3.4,Excellent food,363,215
+2025-02-26,Chicken Curry,Main Course,2,426.61,Delivery,4.2,Superb!,216,55
+2025-02-26,Butter Naan,Bread,3,803.67,Dine-in,3.1,Average experience,360,233
+2025-02-26,Dal Makhani,Main Course,3,597.58,Delivery,2.7,Excellent food,351,227
+2025-02-26,Pasta,Main Course,3,431.65,Dine-in,2.8,Superb!,360,186
+2025-02-25,Gulab Jamun,Dessert,5,605.94,Dine-in,4.0,Average experience,885,773
+2025-02-25,Tandoori Chicken,Starter,1,266.96,Dine-in,3.4,Will order again,134,0
+2025-02-25,Gulab Jamun,Dessert,2,531.18,Delivery,4.0,Superb!,202,95
+2025-02-25,Butter Naan,Bread,5,707.61,Delivery,4.8,Not satisfied,685,502
+2025-02-25,Butter Naan,Bread,1,246.86,Delivery,4.8,Not satisfied,120,0
+2025-02-25,Chicken Curry,Main Course,1,105.11,Delivery,3.5,Perfect taste,133,0
+2025-02-25,Tandoori Chicken,Starter,4,1179.42,Delivery,4.7,Loved it!,696,525
+2025-02-25,Dal Makhani,Main Course,1,170.71,Delivery,4.2,Late delivery,137,0
+2025-02-25,Chocolate Brownie,Dessert,2,479.88,Delivery,3.8,Late delivery,288,121
+2025-02-25,Pizza,Main Course,1,203.33,Delivery,3.8,Will order again,191,94
+2025-02-25,Tandoori Chicken,Starter,2,566.1,Delivery,4.5,Loved it!,228,54
+2025-02-25,Pizza,Main Course,3,320.88,Delivery,3.2,Could be better,321,174
+2025-02-25,Dal Makhani,Main Course,3,493.89,Delivery,3.0,Perfect taste,597,488
+2025-02-25,Butter Naan,Bread,2,564.37,Dine-in,2.8,Average experience,346,225
+2025-02-25,Pasta,Main Course,3,335.58,Delivery,2.9,Too spicy,504,331
+2025-02-25,Tandoori Chicken,Starter,4,457.34,Delivery,3.2,Perfect taste,652,464
+2025-02-25,Gulab Jamun,Dessert,1,143.87,Dine-in,2.5,Not satisfied,128,0
+2025-02-25,Tandoori Chicken,Starter,4,837.47,Delivery,4.7,Too spicy,792,680
+2025-02-25,Tandoori Chicken,Starter,2,451.46,Delivery,2.6,Perfect taste,234,147
+2025-02-25,Pizza,Main Course,5,967.66,Dine-in,3.7,Not satisfied,655,532
+2025-02-25,Pizza,Main Course,6,1453.21,Dine-in,2.9,Will order again,930,791
+2025-02-25,Pasta,Main Course,2,445.67,Delivery,4.7,Perfect taste,214,34
+2025-02-25,Pasta,Main Course,2,343.61,Dine-in,4.2,Not satisfied,354,254
+2025-02-25,Pizza,Main Course,5,749.79,Delivery,3.4,Average experience,1000,869
+2025-02-24,Butter Naan,Bread,2,337.73,Dine-in,3.7,Not satisfied,204,54
+2025-02-24,Chicken Curry,Main Course,2,260.06,Delivery,4.6,Will order again,224,32
+2025-02-24,Pizza,Main Course,4,593.57,Dine-in,4.3,Too spicy,800,613
+2025-02-24,Butter Naan,Bread,3,614.45,Dine-in,2.6,Not satisfied,375,204
+2025-02-24,Pasta,Main Course,1,233.74,Delivery,3.8,Could be better,112,0
+2025-02-24,Pizza,Main Course,2,439.53,Dine-in,4.3,Loved it!,350,177
+2025-02-24,Paneer Butter Masala,Main Course,3,376.6,Dine-in,4.5,Perfect taste,327,145
+2025-02-24,Paneer Butter Masala,Main Course,2,368.69,Delivery,4.6,Too spicy,326,227
+2025-02-24,Veg Biryani,Main Course,5,886.84,Delivery,4.8,Could be better,630,525
+2025-02-24,Dal Makhani,Main Course,4,425.68,Delivery,5.0,Superb!,440,249
+2025-02-24,Butter Naan,Bread,1,161.6,Dine-in,4.7,Will order again,177,0
+2025-02-24,Dal Makhani,Main Course,3,604.19,Delivery,3.6,Will order again,540,444
+2025-02-24,Paneer Butter Masala,Main Course,5,598.9,Delivery,4.7,Average experience,925,751
+2025-02-24,Tandoori Chicken,Starter,3,684.46,Delivery,3.6,Not satisfied,363,257
+2025-02-24,Chicken Curry,Main Course,2,260.43,Dine-in,2.8,Perfect taste,336,179
+2025-02-24,Dal Makhani,Main Course,3,591.7,Delivery,4.5,Late delivery,348,159
+2025-02-24,Pasta,Main Course,3,808.42,Dine-in,3.3,Superb!,327,215
+2025-02-24,Tandoori Chicken,Starter,3,714.57,Delivery,3.8,Perfect taste,489,375
+2025-02-24,Dal Makhani,Main Course,2,301.37,Dine-in,3.7,Loved it!,250,105
+2025-02-24,Chicken Curry,Main Course,1,282.48,Delivery,2.9,Could be better,156,72
+2025-02-24,Paneer Butter Masala,Main Course,4,991.75,Delivery,3.5,Could be better,744,566
+2025-02-24,Dal Makhani,Main Course,7,965.14,Delivery,5.0,Not satisfied,784,590
+2025-02-24,Gulab Jamun,Dessert,2,497.59,Delivery,4.1,Late delivery,234,116
+2025-02-24,Pasta,Main Course,3,386.3,Dine-in,3.2,Superb!,369,194
+2025-02-24,Pizza,Main Course,3,685.81,Delivery,4.3,Could be better,351,217
+2025-02-23,Paneer Butter Masala,Main Course,3,414.65,Delivery,3.6,Perfect taste,333,220
+2025-02-23,Paneer Butter Masala,Main Course,3,383.81,Dine-in,2.5,Excellent food,435,305
+2025-02-23,Pasta,Main Course,3,794.36,Delivery,2.9,Average experience,558,474
+2025-02-23,Veg Biryani,Main Course,2,355.45,Delivery,4.4,Average experience,238,67
+2025-02-23,Tandoori Chicken,Starter,5,1487.07,Dine-in,3.2,Average experience,605,494
+2025-02-23,Dal Makhani,Main Course,4,775.69,Dine-in,3.7,Will order again,584,460
+2025-02-23,Butter Naan,Bread,1,122.24,Delivery,4.7,Loved it!,173,16
+2025-02-23,Chocolate Brownie,Dessert,3,625.47,Dine-in,3.3,Could be better,495,302
+2025-02-23,Veg Biryani,Main Course,3,522.82,Dine-in,2.9,Could be better,312,224
+2025-02-23,Veg Biryani,Main Course,4,1159.92,Dine-in,4.0,Average experience,688,572
+2025-02-23,Pasta,Main Course,2,258.24,Dine-in,3.7,Perfect taste,224,57
+2025-02-23,Chicken Curry,Main Course,3,419.53,Delivery,3.6,Too spicy,504,360
+2025-02-23,Gulab Jamun,Dessert,1,126.22,Dine-in,2.7,Loved it!,104,0
+2025-02-23,Chocolate Brownie,Dessert,4,998.43,Dine-in,2.6,Excellent food,596,431
+2025-02-23,Pasta,Main Course,4,943.3,Delivery,3.8,Late delivery,596,422
+2025-02-23,Chicken Curry,Main Course,3,302.56,Dine-in,2.6,Late delivery,336,156
+2025-02-23,Dal Makhani,Main Course,1,108.75,Dine-in,4.5,Too spicy,189,0
